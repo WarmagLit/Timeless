@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 921c2f8420ad0fa45be85d2802e2173d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2714134148096225602
+    second: B-ERCPRCUAAQL3c_0
+  - first:
+      213: 1638760413517018616
+    second: B-ERCPRCUAAQL3c_1
+  - first:
+      213: -8072846412949442043
+    second: B-ERCPRCUAAQL3c_2
+  - first:
+      213: 20933339097132450
+    second: B-ERCPRCUAAQL3c_3
+  - first:
+      213: -4121209634452889973
+    second: B-ERCPRCUAAQL3c_4
+  - first:
+      213: -3434285306076484245
+    second: B-ERCPRCUAAQL3c_5
+  - first:
+      213: -6060606475969094681
+    second: B-ERCPRCUAAQL3c_6
+  - first:
+      213: 2686537215367996513
+    second: B-ERCPRCUAAQL3c_7
+  - first:
+      213: -8368982579890506072
+    second: B-ERCPRCUAAQL3c_8
+  - first:
+      213: 6845077611511961479
+    second: B-ERCPRCUAAQL3c_9
+  - first:
+      213: 5845699646048665568
+    second: B-ERCPRCUAAQL3c_10
+  - first:
+      213: -1592300236137227946
+    second: B-ERCPRCUAAQL3c_11
+  - first:
+      213: -1772869054994528156
+    second: B-ERCPRCUAAQL3c_12
+  - first:
+      213: -328356790658361620
+    second: B-ERCPRCUAAQL3c_13
+  - first:
+      213: -3019453084963321619
+    second: B-ERCPRCUAAQL3c_14
+  - first:
+      213: -8623296470745238459
+    second: B-ERCPRCUAAQL3c_15
+  - first:
+      213: 2140524974032391678
+    second: B-ERCPRCUAAQL3c_16
+  - first:
+      213: -614679542755669970
+    second: B-ERCPRCUAAQL3c_17
+  - first:
+      213: -5175288643050805998
+    second: B-ERCPRCUAAQL3c_18
+  - first:
+      213: 8020908333258652986
+    second: B-ERCPRCUAAQL3c_19
+  - first:
+      213: 8248792540430226980
+    second: B-ERCPRCUAAQL3c_20
+  - first:
+      213: -1153252902151352281
+    second: B-ERCPRCUAAQL3c_21
+  - first:
+      213: -3505535524023787120
+    second: B-ERCPRCUAAQL3c_22
+  - first:
+      213: 9111559751628805573
+    second: B-ERCPRCUAAQL3c_23
+  - first:
+      213: 7107627490567962080
+    second: B-ERCPRCUAAQL3c_24
+  - first:
+      213: -8092726762634167038
+    second: B-ERCPRCUAAQL3c_25
+  - first:
+      213: -8406942450303709454
+    second: B-ERCPRCUAAQL3c_26
+  - first:
+      213: -2715833652406934113
+    second: B-ERCPRCUAAQL3c_27
+  - first:
+      213: 930153562058787102
+    second: B-ERCPRCUAAQL3c_28
+  - first:
+      213: 3828808479030737965
+    second: B-ERCPRCUAAQL3c_29
+  - first:
+      213: 2705419609671243927
+    second: B-ERCPRCUAAQL3c_30
+  - first:
+      213: 4976720535951646760
+    second: B-ERCPRCUAAQL3c_31
+  - first:
+      213: -8211636025473853228
+    second: B-ERCPRCUAAQL3c_32
+  - first:
+      213: 4663890190031600563
+    second: B-ERCPRCUAAQL3c_33
+  - first:
+      213: 3671279764651552293
+    second: B-ERCPRCUAAQL3c_34
+  - first:
+      213: 1492669471238418826
+    second: B-ERCPRCUAAQL3c_35
+  - first:
+      213: 5184505204804230858
+    second: B-ERCPRCUAAQL3c_36
+  - first:
+      213: -1522448398299711206
+    second: B-ERCPRCUAAQL3c_37
+  - first:
+      213: 8791718586301212490
+    second: B-ERCPRCUAAQL3c_38
+  - first:
+      213: 268862824533153966
+    second: B-ERCPRCUAAQL3c_39
+  - first:
+      213: 2585282542331604024
+    second: B-ERCPRCUAAQL3c_40
+  - first:
+      213: 6686864179796320856
+    second: B-ERCPRCUAAQL3c_41
+  - first:
+      213: -8691822838006599528
+    second: B-ERCPRCUAAQL3c_42
+  - first:
+      213: 7691036517528930302
+    second: B-ERCPRCUAAQL3c_43
+  - first:
+      213: 4896817879121379589
+    second: B-ERCPRCUAAQL3c_44
+  - first:
+      213: -9135030973924809267
+    second: B-ERCPRCUAAQL3c_45
+  - first:
+      213: -4868227164158217356
+    second: B-ERCPRCUAAQL3c_46
+  - first:
+      213: 7686597588592224984
+    second: B-ERCPRCUAAQL3c_47
+  - first:
+      213: -7536463058573774585
+    second: B-ERCPRCUAAQL3c_48
+  - first:
+      213: -5085183714819781752
+    second: B-ERCPRCUAAQL3c_49
+  - first:
+      213: 7841218411766800580
+    second: B-ERCPRCUAAQL3c_50
+  - first:
+      213: -5732019925940218584
+    second: B-ERCPRCUAAQL3c_51
+  - first:
+      213: -7159821311391409096
+    second: B-ERCPRCUAAQL3c_52
+  - first:
+      213: -3246247953548142139
+    second: B-ERCPRCUAAQL3c_53
+  - first:
+      213: 7607036897481689397
+    second: B-ERCPRCUAAQL3c_54
+  - first:
+      213: -8401795790920239860
+    second: B-ERCPRCUAAQL3c_55
+  - first:
+      213: -5040956684528677336
+    second: B-ERCPRCUAAQL3c_56
+  - first:
+      213: -6689111130802874528
+    second: B-ERCPRCUAAQL3c_57
+  - first:
+      213: 8113824425427180219
+    second: B-ERCPRCUAAQL3c_58
+  - first:
+      213: 729756758381243173
+    second: B-ERCPRCUAAQL3c_59
+  - first:
+      213: 4678621693222958108
+    second: B-ERCPRCUAAQL3c_60
+  - first:
+      213: 6597585387559056320
+    second: B-ERCPRCUAAQL3c_61
+  - first:
+      213: 2853256294267861264
+    second: B-ERCPRCUAAQL3c_62
+  - first:
+      213: -7087992299664748405
+    second: B-ERCPRCUAAQL3c_63
+  - first:
+      213: -152872031714187816
+    second: B-ERCPRCUAAQL3c_64
+  - first:
+      213: 522770898935399551
+    second: B-ERCPRCUAAQL3c_65
+  - first:
+      213: -884758070462851788
+    second: B-ERCPRCUAAQL3c_66
+  - first:
+      213: -8513935891029921471
+    second: B-ERCPRCUAAQL3c_67
+  - first:
+      213: -6596934838889565204
+    second: B-ERCPRCUAAQL3c_68
+  - first:
+      213: -6103518849155738590
+    second: B-ERCPRCUAAQL3c_69
+  - first:
+      213: -6007221614526401256
+    second: B-ERCPRCUAAQL3c_70
+  - first:
+      213: -839354090078455831
+    second: B-ERCPRCUAAQL3c_71
+  - first:
+      213: 6789725365416362854
+    second: B-ERCPRCUAAQL3c_72
+  - first:
+      213: 6353480532391657904
+    second: B-ERCPRCUAAQL3c_73
+  - first:
+      213: 2157217444047842208
+    second: B-ERCPRCUAAQL3c_74
+  - first:
+      213: 2029932533233567388
+    second: B-ERCPRCUAAQL3c_75
+  - first:
+      213: -4333496104596514008
+    second: B-ERCPRCUAAQL3c_76
+  - first:
+      213: -6608437335516785442
+    second: B-ERCPRCUAAQL3c_77
+  - first:
+      213: -7226547950992526919
+    second: B-ERCPRCUAAQL3c_78
+  - first:
+      213: 6081915002382470300
+    second: B-ERCPRCUAAQL3c_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241780aa0aa8aa520800000000000000
+      internalID: 2714134148096225602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f577afd9eb0eb610800000000000000
+      internalID: 1638760413517018616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502bcdd85fc77ff80800000000000000
+      internalID: -8072846412949442043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade8d0d2ce5a4000800000000000000
+      internalID: 20933339097132450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e948d2ca58ec6c0800000000000000
+      internalID: -4121209634452889973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da7f1b5b7f650d0800000000000000
+      internalID: -3434285306076484245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1e64458664eba0800000000000000
+      internalID: -6060606475969094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16460ed0d5f784520800000000000000
+      internalID: 2686537215367996513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b1323fa66bdb80800000000000000
+      internalID: -8368982579890506072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 365
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787562622d99efe50800000000000000
+      internalID: 6845077611511961479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7b523bd8102150800000000000000
+      internalID: 5845699646048665568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65915412f5307e9e0800000000000000
+      internalID: -1592300236137227946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c4cfccf08567e0800000000000000
+      internalID: -1772869054994528156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce698351d31717bf0800000000000000
+      internalID: -328356790658361620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8cdceba6fb816d0800000000000000
+      internalID: -3019453084963321619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b95c4c85e35880800000000000000
+      internalID: -8623296470745238459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd8d067f1ca4bd10800000000000000
+      internalID: 2140524974032391678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28495b66383877f0800000000000000
+      internalID: -614679542755669970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215e7d4266ead28b0800000000000000
+      internalID: -5175288643050805998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 315
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3adbe1adff4f60800000000000000
+      internalID: 8020908333258652986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4265c3e8c19997270800000000000000
+      internalID: 8248792540430226980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720941f7892deffe0800000000000000
+      internalID: -1153252902151352281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ac079306d95fc0800000000000000
+      internalID: -3505535524023787120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d499a153c27e70800000000000000
+      internalID: 9111559751628805573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edba1b7b8d53a260800000000000000
+      internalID: 7107627490567962080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db4e0f2ebd0bf80800000000000000
+      internalID: -8092726762634167038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fece72226a845b80800000000000000
+      internalID: -8406942450303709454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95ab37aeab6f4ad0800000000000000
+      internalID: -2715833652406934113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19041d8cb198ec00800000000000000
+      internalID: 930153562058787102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 265
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c71a99609a22530800000000000000
+      internalID: 3828808479030737965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79894d21dc49b8520800000000000000
+      internalID: 2705419609671243927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8202acba5fcd01540800000000000000
+      internalID: 4976720535951646760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d894dcba886a0e80800000000000000
+      internalID: -8211636025473853228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb3340ea6779b040800000000000000
+      internalID: 4663890190031600563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea223ae7103f230800000000000000
+      internalID: 3671279764651552293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817c30c9f607b410800000000000000
+      internalID: 1492669471238418826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace158cd30013f740800000000000000
+      internalID: 5184505204804230858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19bb7e7f3d2fdae0800000000000000
+      internalID: -1522448398299711206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47eea54975720a70800000000000000
+      internalID: 8791718586301212490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 215
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85b9d70513bb300800000000000000
+      internalID: 268862824533153966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca1bb56c4c0e320800000000000000
+      internalID: 2585282542331604024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522b020b838ccc50800000000000000
+      internalID: 6686864179796320856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903df91e21706780800000000000000
+      internalID: -8691822838006599528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78eddb6fc0cba60800000000000000
+      internalID: 7691036517528930302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cfc6aaedf4f340800000000000000
+      internalID: 4896817879121379589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5650b8ab9d93180800000000000000
+      internalID: -9135030973924809267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473317aef25907cb0800000000000000
+      internalID: -4868227164158217356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae96f08c74caa60800000000000000
+      internalID: 7686597588592224984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013bd237ca196790800000000000000
+      internalID: -7536463058573774585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 165
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc0949a5ccd69b0800000000000000
+      internalID: -5085183714819781752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ec97d99a91dc60800000000000000
+      internalID: 7841218411766800580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255fd43f36c370b0800000000000000
+      internalID: -5732019925940218584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5e3f937433ac90800000000000000
+      internalID: -7159821311391409096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c99ce38fa203f2d0800000000000000
+      internalID: -3246247953548142139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398fa321cf919960800000000000000
+      internalID: 7607036897481689397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b3d62e33d66b80800000000000000
+      internalID: -8401795790920239860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e89828a9cea0ab0800000000000000
+      internalID: -5040956684528677336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671261fdd08b23a0800000000000000
+      internalID: -6689111130802874528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba997773581a9070800000000000000
+      internalID: 8113824425427180219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b21c3c7ed902a00800000000000000
+      internalID: 729756758381243173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14bdfe34adcde040800000000000000
+      internalID: 4678621693222958108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f3c854f45f8b50800000000000000
+      internalID: 6597585387559056320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019bbf08b7dc89720800000000000000
+      internalID: 2853256294267861264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8057c7ae8462ad90800000000000000
+      internalID: -7087992299664748405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5659572b3e0edf0800000000000000
+      internalID: -152872031714187816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c4f1ec51414700800000000000000
+      internalID: 522770898935399551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d6e9f835b8b3f0800000000000000
+      internalID: -884758070462851788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14176b67a6c68d980800000000000000
+      internalID: -8513935891029921471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b69157baf274a0800000000000000
+      internalID: -6596934838889565204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224db2cc1f1fb4ba0800000000000000
+      internalID: -6103518849155738590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815fa1be4cf02aca0800000000000000
+      internalID: -6007221614526401256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e73a14f6e30a54f0800000000000000
+      internalID: -839354090078455831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630a101f33f93e50800000000000000
+      internalID: 6789725365416362854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1809cc1e81c2850800000000000000
+      internalID: 6353480532391657904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6fbff5d9ffed10800000000000000
+      internalID: 2157217444047842208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96456942e4cb2c10800000000000000
+      internalID: 2029932533233567388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b5cf1b0445cd3c0800000000000000
+      internalID: -4333496104596514008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d710a14d1a44a0800000000000000
+      internalID: -6608437335516785442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b173cc2de426bb90800000000000000
+      internalID: -7226547950992526919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B-ERCPRCUAAQL3c_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c4027a87d476450800000000000000
+      internalID: 6081915002382470300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

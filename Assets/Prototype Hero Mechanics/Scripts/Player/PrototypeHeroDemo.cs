@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PrototypeHeroDemo : BaseBehaviour {
 
@@ -23,8 +24,10 @@ public class PrototypeHeroDemo : BaseBehaviour {
     {
         SwordCheck();
 
+        CheckAlive();
         MoveInputHandle();
         MoveAbilitiesHandle();
+        SwitchShootingModeHandle();
         ShootingHandle();
     }
 
@@ -42,6 +45,19 @@ public class PrototypeHeroDemo : BaseBehaviour {
     {
         int hideSwordBoolInt = hideSword ? 1 : 0;
         animator.SetLayerWeight(1, hideSwordBoolInt);
+    }
+
+    private void CheckAlive()
+    {
+        if (!healthScript.Alive())
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        SceneManager.LoadScene("MechanicsTests");
     }
 
     private void MoveInputHandle() 
@@ -63,11 +79,19 @@ public class PrototypeHeroDemo : BaseBehaviour {
         }
     }
 
+    private void SwitchShootingModeHandle()
+    {
+        if (Input.GetButtonDown("Switch Shooting Mode"))
+        {
+            shootingScript.SwitchMode();
+        }
+    }
+
     private void ShootingHandle()
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            StartCoroutine(shootingScript.Shoot());
+            shootingScript.Shoot();
         }
     }
 }

@@ -5,14 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public void ChooseScene(int a)                  // Метод смены сцены с номером сцены
+    public void ChooseScene(string a)                  
     {
-        SceneManager.LoadScene(a);                  // Выбор сцены 
+        SceneManager.LoadScene(a);                   
     }
 
-    public void Exit()                              // Метод выхода из приоложения
+    public void Exit()                              
     {
-        Application.Quit();                         // Сам выход
+        Application.Quit();                        
     }
 
 }

@@ -330,6 +330,7 @@ GameObject:
   - component: {fileID: 7384702237513444527}
   - component: {fileID: 7384702237513444524}
   - component: {fileID: 7384702237513444515}
+  - component: {fileID: 3860139706578190262}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -447,6 +448,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 1
   healthBar: {fileID: 4218394506462787427}
+--- !u!114 &3860139706578190262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7384702237513444521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6090da511f8374135a15dd8655adcd44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _recordingInterval: 0.5
+  _mode: 1
+  _globalClockKey: Enemies
+  _rewindable: 1
+  _recordingDuration: 30
 --- !u!1 &7384702238407613470
 GameObject:
   m_ObjectHideFlags: 0

@@ -219,6 +219,7 @@ GameObject:
   - component: {fileID: 8077049285815290605}
   - component: {fileID: 3684137273425548464}
   - component: {fileID: 1622918054540712282}
+  - component: {fileID: 6059443276640232368}
   m_Layer: 0
   m_Name: PrototypeHero
   m_TagString: Player
@@ -256,7 +257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a47e18f77aacbc4b8c66326fe4607e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hideSword: 1
+  shooting: 1
 --- !u!95 &3764271992053789189
 Animator:
   serializedVersion: 3
@@ -400,11 +401,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 251177d27489f604b9f4915ad3e46af2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 20
+  laserCooldown: 1
   firePoint: {fileID: 7477675510885067230}
   lineRenderer: {fileID: 4764531952928112724}
   collisionMask:
     serializedVersion: 2
     m_Bits: 8
+  bulletPrefab: {fileID: 5164163868758447487, guid: 96e339b2eddfeed4eb3f8a8d33f04797,
+    type: 3}
 --- !u!114 &1622918054540712282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -429,6 +434,18 @@ MonoBehaviour:
   dashSpeed: 50
   distanceBetweenImages: 0.6
   dashCooldown: 1
+--- !u!114 &6059443276640232368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5126507520524490402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 304a3e099eefb8b47b4c74dd5b44af04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7322549255378982204
 GameObject:
   m_ObjectHideFlags: 0

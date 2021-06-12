@@ -81,6 +81,13 @@ public class PlayerHeroMovement : MonoBehaviour
         }
     }
 
+    public void BoostUp(float boostForce)
+    {
+        float yVelocity = -Mathf.Clamp(body2d.velocity.y, -3, -1) * boostForce;
+        JumpAnimation();
+        body2d.velocity = new Vector2(body2d.velocity.x, yVelocity);
+    }
+
     private void GroundedCheck()
     {
         GroundedUpdate(groundSensor.State());

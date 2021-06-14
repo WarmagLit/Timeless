@@ -8,7 +8,7 @@ public class SliderController : MonoBehaviour
 {
     public Slider slider;
     public float oldVolume;
-    bool isFullScreen = false;
+    bool isFullScreen = true;
     public Dropdown dropdown;
 
     void Start()
@@ -39,10 +39,12 @@ public class SliderController : MonoBehaviour
         if (dropdown.value == 0)
         {
             Screen.SetResolution(1920, 1080, isFullScreen);
+            Debug.Log(0);
         }
         if (dropdown.value == 1)
         {
             Screen.SetResolution(3840, 2160, isFullScreen);
+            Debug.Log(1);
         }
         if (dropdown.value == 2)
         {
@@ -51,6 +53,22 @@ public class SliderController : MonoBehaviour
         if (dropdown.value == 3)
         {
             Screen.SetResolution(1366, 768, isFullScreen);
+        }
+        if (dropdown.value == 4)
+        {
+            Screen.SetResolution(1024, 768, isFullScreen);
+        }
+        if (dropdown.value == 5)
+        {
+            Screen.SetResolution(640, 480, isFullScreen);
+        }
+        if (dropdown.value == 6)
+        {
+            Screen.SetResolution(800, 600, isFullScreen);
+        }
+        if (dropdown.value == 7)
+        {
+            Screen.SetResolution(1080, 720, isFullScreen);
         }
     }
 }

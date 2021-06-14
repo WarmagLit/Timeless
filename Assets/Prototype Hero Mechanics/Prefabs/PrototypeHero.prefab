@@ -72,7 +72,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collisionMask:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 264
 --- !u!1 &4697036075650638239
 GameObject:
   m_ObjectHideFlags: 0

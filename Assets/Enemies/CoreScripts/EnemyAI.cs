@@ -5,8 +5,6 @@ using Pathfinding;
 
 public class EnemyAI : MonoBehaviour
 {
-    public Transform target;
-
     [SerializeField] float speed = 200f;
     [SerializeField] float nextWaypointDistance = 3f;
 
@@ -16,24 +14,60 @@ public class EnemyAI : MonoBehaviour
 
     private Seeker seeker;
     private Rigidbody2D rigidbody;
+    private Transform target;
+
+    private float changeRandomDirectionCooldown = .5f;
+    private float lastDirectionChange = -100;
 
     void Start()
     {
         seeker = GetComponent<Seeker>();
         rigidbody = GetComponent<Rigidbody2D>();
+        target = FindObjectOfType<PrototypeHeroDemo>().transform;
 
         InvokeRepeating("UpdatePath", 0f, .5f);
     }
 
     void FixedUpdate()
     {
+        Fly();
+    }
+
+    private void Fly()
+    {
         if (path == null) return;
 
-        reachedEndOfPath = currentWaypoint >= path.vectorPath.Count;
-        if (reachedEndOfPath) return;
+        reachedEndOfPath = currentWaypoint >= path.vectorPath.Count - 4;
+        if (reachedEndOfPath)
+        {
+            RandomFly();
+            return;
+        }
 
-        Vector2 direction = ((Vector2)path.vectorPath[currentWaypoint] - rigidbody.position).normalized;
-        Vector2 force = direction * speed * Time.deltaTime;
+        PathFly();
+    }
+
+    private void RandomFly()
+    {
+        if (Time.time > (lastDirectionChange + changeRandomDirectionCooldown))
+        {
+            Vector2 direction, force;
+            float[] randomRange = new float[] { Random.Range(-5f, -15f), Random.Range(5f, 15f) };
+
+            direction = new Vector2(randomRange[Random.Range(0, 2)], randomRange[Random.Range(0, 2)]);
+            force = direction * speed * Time.deltaTime;
+
+            rigidbody.AddForce(force);
+            lastDirectionChange = Time.time;
+        }
+    }
+
+    private void PathFly()
+    {
+        Vector2 direction, force;
+
+        direction = ((Vector2)path.vectorPath[currentWaypoint] - rigidbody.position).normalized;
+        force = direction * speed * Time.deltaTime;
         rigidbody.AddForce(force);
 
         float distance = Vector2.Distance(rigidbody.position, path.vectorPath[currentWaypoint]);

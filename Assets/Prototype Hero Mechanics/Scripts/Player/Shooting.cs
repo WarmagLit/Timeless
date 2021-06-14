@@ -49,7 +49,9 @@ public class Shooting : MonoBehaviour
 
     private IEnumerator ShootLaser()
     {
-        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right, float.MaxValue, collisionMask);
+        Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 direction = (mousePosition - firePoint.position).normalized;
+        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, direction, float.MaxValue, collisionMask);
 
         if (hitInfo)
         {
@@ -63,7 +65,7 @@ public class Shooting : MonoBehaviour
         }
         else
         {
-            SetShootLine(firePoint.position, firePoint.position + firePoint.right * 16);
+            SetShootLine(firePoint.position, firePoint.position + direction * 60);
         }
 
         lineRenderer.enabled = true;
@@ -71,7 +73,6 @@ public class Shooting : MonoBehaviour
         yield return new WaitForSeconds(.1f);
 
         lineRenderer.enabled = false;
-        //Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
     }
 
     private void SetShootLine(Vector3 position1, Vector3 position2)

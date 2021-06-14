@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class JumpPlatformScript : MonoBehaviour
 {
-    [SerializeField] float jumpForce = 20;
+    [SerializeField] float jumpForce = 16;
 
     private void OnTriggerEnter2D(Collider2D jumpInfo)
     {

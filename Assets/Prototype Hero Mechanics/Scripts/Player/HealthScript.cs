@@ -3,11 +3,13 @@ using UnityEngine;
 
 public class HealthScript : MonoBehaviour
 {
-    [SerializeField] float maxHealth = 1;
+    [SerializeField] float regenerateRateInPercent = 30;
+    [SerializeField] float selfDamageRateInPercent = 5;
+    [SerializeField] protected float maxHealth = 1;
 
     public HealthBar healthBar;
 
-    private float currentHealth;
+    protected float currentHealth;
 
     private void Start()
     {
@@ -20,6 +22,16 @@ public class HealthScript : MonoBehaviour
         return currentHealth > 0;
     }
 
+    public void SelfRegenerate()
+    {
+        Heal(maxHealth * (regenerateRateInPercent / 100) * Time.deltaTime);
+    }
+
+    public void SelfDamage()
+    {
+        TakeDamage(maxHealth * (selfDamageRateInPercent / 100) * Time.deltaTime);
+    }
+
     public void TakeDamage(float damage)
     {
         ChangeHealth(currentHealth - damage, damage);
@@ -28,7 +40,7 @@ public class HealthScript : MonoBehaviour
     public void Heal(float healAmount)
     {
         ChangeHealth(currentHealth + healAmount, healAmount);
-    }
+    }  
 
     private void ChangeHealth(float newHealth, float deltaHealth)
     {

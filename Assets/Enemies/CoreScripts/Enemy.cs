@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    private HealthScript healthScript;
+    protected HealthScript healthScript;
 
-    void Start()
+    virtual protected void Start()
     {
         healthScript = GetComponent<HealthScript>();
     }
 
-    void Update()
+    virtual protected void Update()
     {
         CheckAlive();
     }
@@ -34,7 +34,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    private void Die()
+    virtual protected void Die()
     {
         Destroy(gameObject);
     }

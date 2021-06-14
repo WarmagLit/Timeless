@@ -331,6 +331,7 @@ GameObject:
   - component: {fileID: 7384702237513444524}
   - component: {fileID: 7384702237513444515}
   - component: {fileID: 3860139706578190262}
+  - component: {fileID: 2955924984883344040}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -465,6 +466,18 @@ MonoBehaviour:
   _globalClockKey: Enemies
   _rewindable: 1
   _recordingDuration: 30
+--- !u!114 &2955924984883344040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7384702237513444521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5e3704303337a14fb621767d3952299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7384702238407613470
 GameObject:
   m_ObjectHideFlags: 0

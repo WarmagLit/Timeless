@@ -99,6 +99,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9407cd5fa1eb2024da1c1f1710db7d0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  regenerateRateInPercent: 30
+  selfDamageRateInPercent: 5
   maxHealth: 70
   healthBar: {fileID: 7374970004329216648}
 --- !u!114 &8401085064996248678
@@ -179,12 +181,12 @@ PrefabInstance:
     - target: {fileID: 8015892030865276544, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 253.4767
+      value: 231.7805
       objectReference: {fileID: 0}
     - target: {fileID: 8015892030865276544, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 49.1242
+      value: 20.9195
       objectReference: {fileID: 0}
     - target: {fileID: 8015892030865276544, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
@@ -224,12 +226,12 @@ PrefabInstance:
     - target: {fileID: 8015892030865276544, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.09
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8015892030865276544, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 1.21
+      value: 1.1789
       objectReference: {fileID: 0}
     - target: {fileID: 8015892030865276544, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
@@ -254,6 +256,26 @@ PrefabInstance:
     - target: {fileID: 8015892031487297104, guid: 840661e9a1e5900489f75c32bbbfc6e6,
         type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8015892031560255619, guid: 840661e9a1e5900489f75c32bbbfc6e6,
+        type: 3}
+      propertyPath: m_CullTransparentMesh
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8015892031560255622, guid: 840661e9a1e5900489f75c32bbbfc6e6,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8015892031560255622, guid: 840661e9a1e5900489f75c32bbbfc6e6,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8015892031560255622, guid: 840661e9a1e5900489f75c32bbbfc6e6,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

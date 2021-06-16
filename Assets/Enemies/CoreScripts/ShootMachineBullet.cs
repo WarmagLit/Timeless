@@ -8,13 +8,7 @@ public class ShootMachineBullet : MonoBehaviour
 
     public int index = 0;
 
-    private Rigidbody2D rigidbody;
     private int collisionLayer = 6;
-
-    void Start()
-    {
-        rigidbody = GetComponent<Rigidbody2D>();
-    }
 
     private void OnTriggerEnter2D(Collider2D hitInfo)
     {

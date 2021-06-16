@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Machine : Enemy
 {
+    public bool overloaded = true;
+
     protected bool destructed = false;
-    private bool overloaded = true;
 
     protected override void Start()
     {

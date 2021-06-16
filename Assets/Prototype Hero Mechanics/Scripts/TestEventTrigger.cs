@@ -7,7 +7,6 @@ using UnityEngine.Events;
 public class TestEventTrigger : MonoBehaviour
 {
     public UnityEvent onTrigger;
-    public PrototypeHeroDemo player;
 
     private void Awake()
     {

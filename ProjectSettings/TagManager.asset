@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SpawnPoint
+  - Enemy
+  - Obelisk
   layers:
   - Default
   - TransparentFX
@@ -11,7 +14,7 @@ TagManager:
   - Collider Mask
   - Water
   - UI
-  - 
+  - Player
   - 
   - Platforms
   - 

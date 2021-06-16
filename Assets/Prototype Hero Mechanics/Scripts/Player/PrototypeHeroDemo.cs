@@ -1,15 +1,17 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PrototypeHeroDemo : BaseBehaviour {
 
     [Header("Variables")]
-    [SerializeField] bool  hideSword = true;
+    [SerializeField] bool  shooting = true;
 
     private PlayerHeroMovement movementScript;
     private HealthScript healthScript;
     private Shooting shootingScript;
     private Animator animator;
+    private Vendetta vendettaScript;
 
     private void Start()
     {
@@ -17,15 +19,19 @@ public class PrototypeHeroDemo : BaseBehaviour {
         movementScript = GetComponent<PlayerHeroMovement>();
         healthScript = GetComponent<HealthScript>();
         shootingScript = GetComponent<Shooting>();
+        vendettaScript = GetComponent<Vendetta>();
     }
 
     private void Update()
     {
-        SwordCheck();
+        ShootAnimationCheck();
 
+        CheckAlive();
         MoveInputHandle();
         MoveAbilitiesHandle();
+        SwitchShootingModeHandle();
         ShootingHandle();
+        VendettaHandle();
     }
 
     public void TakeDamage(float damage)
@@ -38,10 +44,28 @@ public class PrototypeHeroDemo : BaseBehaviour {
         healthScript.Heal(healAmount);
     }
 
-    private void SwordCheck()
+    public void BoostUp(float boostScript)
     {
-        int hideSwordBoolInt = hideSword ? 1 : 0;
-        animator.SetLayerWeight(1, hideSwordBoolInt);
+        movementScript.BoostUp(boostScript);
+    }
+
+    private void ShootAnimationCheck()
+    {
+        int shootingInt = shooting ? 1 : 0;
+        animator.SetLayerWeight(1, shootingInt);
+    }
+
+    private void CheckAlive()
+    {
+        if (!healthScript.Alive())
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void MoveInputHandle() 
@@ -63,11 +87,27 @@ public class PrototypeHeroDemo : BaseBehaviour {
         }
     }
 
+    private void SwitchShootingModeHandle()
+    {
+        if (Input.GetButtonDown("Switch Shooting Mode"))
+        {
+            shootingScript.SwitchMode();
+        }
+    }
+
     private void ShootingHandle()
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            StartCoroutine(shootingScript.Shoot());
+            shootingScript.Shoot();
+        }
+    }
+
+    private void VendettaHandle()
+    {
+        if (Input.GetButtonDown("Vendetta"))
+        {
+            vendettaScript.CastVendetta();
         }
     }
 }

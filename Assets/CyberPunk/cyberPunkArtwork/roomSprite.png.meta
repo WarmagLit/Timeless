@@ -1,0 +1,8172 @@
+fileFormatVersion: 2
+guid: 4b82a0c962dd0bd4aa26396d98f8f315
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3308224023395161765
+    second: roomSprite_0
+  - first:
+      213: -6042697982872768485
+    second: roomSprite_1
+  - first:
+      213: 1530012257675200340
+    second: roomSprite_2
+  - first:
+      213: 1294480081319567584
+    second: roomSprite_3
+  - first:
+      213: 318671837993805725
+    second: roomSprite_4
+  - first:
+      213: 7315043210078023642
+    second: roomSprite_5
+  - first:
+      213: 4852633923503185440
+    second: roomSprite_6
+  - first:
+      213: 957581134201827327
+    second: roomSprite_7
+  - first:
+      213: 5805622285347712807
+    second: roomSprite_8
+  - first:
+      213: 7922553982510656873
+    second: roomSprite_9
+  - first:
+      213: -2957028494160385619
+    second: roomSprite_10
+  - first:
+      213: -5800017216820909749
+    second: roomSprite_11
+  - first:
+      213: -1829024808307936378
+    second: roomSprite_12
+  - first:
+      213: 3026915211307306574
+    second: roomSprite_13
+  - first:
+      213: -7484564581857789067
+    second: roomSprite_14
+  - first:
+      213: -6390649556980681318
+    second: roomSprite_15
+  - first:
+      213: 749507237356557568
+    second: roomSprite_16
+  - first:
+      213: 1322523352166146898
+    second: roomSprite_17
+  - first:
+      213: 3941622661696109135
+    second: roomSprite_18
+  - first:
+      213: -8118892079563720370
+    second: roomSprite_19
+  - first:
+      213: 2212582593757003264
+    second: roomSprite_20
+  - first:
+      213: -6481797491350875242
+    second: roomSprite_21
+  - first:
+      213: 5942183548311854627
+    second: roomSprite_22
+  - first:
+      213: -6234065101748137214
+    second: roomSprite_23
+  - first:
+      213: -3546290321281129740
+    second: roomSprite_24
+  - first:
+      213: 4134310357397601915
+    second: roomSprite_25
+  - first:
+      213: -7971161744113425370
+    second: roomSprite_26
+  - first:
+      213: -4902693868579565150
+    second: roomSprite_27
+  - first:
+      213: 791664621203012770
+    second: roomSprite_28
+  - first:
+      213: 932086027784617349
+    second: roomSprite_29
+  - first:
+      213: -4599186564562943040
+    second: roomSprite_30
+  - first:
+      213: -258860684959749644
+    second: roomSprite_31
+  - first:
+      213: -8370294906799520867
+    second: roomSprite_32
+  - first:
+      213: 7438745980397202268
+    second: roomSprite_33
+  - first:
+      213: -8655923346471531470
+    second: roomSprite_34
+  - first:
+      213: -7498888019660161560
+    second: roomSprite_35
+  - first:
+      213: 4915187146880644583
+    second: roomSprite_36
+  - first:
+      213: 4744255692449210243
+    second: roomSprite_37
+  - first:
+      213: -2499794110663047406
+    second: roomSprite_38
+  - first:
+      213: 7180413853202653249
+    second: roomSprite_39
+  - first:
+      213: -7212150540148063002
+    second: roomSprite_40
+  - first:
+      213: -6185164922796254636
+    second: roomSprite_41
+  - first:
+      213: 7362009222632387480
+    second: roomSprite_42
+  - first:
+      213: 5646125267652666682
+    second: roomSprite_43
+  - first:
+      213: 2418365405708157324
+    second: roomSprite_44
+  - first:
+      213: -3837357382129356249
+    second: roomSprite_45
+  - first:
+      213: 7886893958536612009
+    second: roomSprite_46
+  - first:
+      213: -908963270578570787
+    second: roomSprite_47
+  - first:
+      213: 8151833075849991666
+    second: roomSprite_48
+  - first:
+      213: -6549500032866100249
+    second: roomSprite_49
+  - first:
+      213: 6472916023117429358
+    second: roomSprite_50
+  - first:
+      213: -3658988717516305236
+    second: roomSprite_51
+  - first:
+      213: 4989990057062197018
+    second: roomSprite_52
+  - first:
+      213: 7113601001841533878
+    second: roomSprite_53
+  - first:
+      213: 585732400706056633
+    second: roomSprite_54
+  - first:
+      213: 5081157266722239820
+    second: roomSprite_55
+  - first:
+      213: -6735871712662365128
+    second: roomSprite_56
+  - first:
+      213: -6495189787265837453
+    second: roomSprite_57
+  - first:
+      213: 3631050368802512125
+    second: roomSprite_58
+  - first:
+      213: -3515717158714520134
+    second: roomSprite_59
+  - first:
+      213: -4268972130441718054
+    second: roomSprite_60
+  - first:
+      213: 8448406874355802567
+    second: roomSprite_61
+  - first:
+      213: 7855938992738640432
+    second: roomSprite_62
+  - first:
+      213: -5231136729618490619
+    second: roomSprite_63
+  - first:
+      213: -6242164622464075553
+    second: roomSprite_64
+  - first:
+      213: 6960937531465990122
+    second: roomSprite_65
+  - first:
+      213: -5723351518659709909
+    second: roomSprite_66
+  - first:
+      213: -6556948294366833978
+    second: roomSprite_67
+  - first:
+      213: 6132281408503132060
+    second: roomSprite_68
+  - first:
+      213: -2553054116264863246
+    second: roomSprite_69
+  - first:
+      213: -6777897500070617649
+    second: roomSprite_70
+  - first:
+      213: -5338373179561065964
+    second: roomSprite_71
+  - first:
+      213: 5865651358465273598
+    second: roomSprite_72
+  - first:
+      213: 7080089072197269763
+    second: roomSprite_73
+  - first:
+      213: 8616266858008180527
+    second: roomSprite_74
+  - first:
+      213: -1666714807306277690
+    second: roomSprite_75
+  - first:
+      213: 5417555141461753179
+    second: roomSprite_76
+  - first:
+      213: 2364177004999906197
+    second: roomSprite_77
+  - first:
+      213: -5924810781656545450
+    second: roomSprite_78
+  - first:
+      213: -8180760962446513867
+    second: roomSprite_79
+  - first:
+      213: 734562743905069056
+    second: roomSprite_80
+  - first:
+      213: -6757751686425728667
+    second: roomSprite_81
+  - first:
+      213: 1002890158810859055
+    second: roomSprite_82
+  - first:
+      213: 3708858048194516195
+    second: roomSprite_83
+  - first:
+      213: -8992347121735560731
+    second: roomSprite_84
+  - first:
+      213: -6040101645095703346
+    second: roomSprite_85
+  - first:
+      213: -2705229405288207766
+    second: roomSprite_86
+  - first:
+      213: 1006693659742222917
+    second: roomSprite_87
+  - first:
+      213: 4868936221658700481
+    second: roomSprite_88
+  - first:
+      213: 6464120686933814710
+    second: roomSprite_89
+  - first:
+      213: -7705281357406303560
+    second: roomSprite_90
+  - first:
+      213: 1400464442629244697
+    second: roomSprite_91
+  - first:
+      213: -7104131874783556783
+    second: roomSprite_92
+  - first:
+      213: -4397811968392363554
+    second: roomSprite_93
+  - first:
+      213: -3912752882695733467
+    second: roomSprite_94
+  - first:
+      213: -4292533769761773942
+    second: roomSprite_95
+  - first:
+      213: -1425820438266829243
+    second: roomSprite_96
+  - first:
+      213: -4480785615709464066
+    second: roomSprite_97
+  - first:
+      213: 6515447521845343007
+    second: roomSprite_98
+  - first:
+      213: 2359222288181522928
+    second: roomSprite_99
+  - first:
+      213: 8372988822503044847
+    second: roomSprite_100
+  - first:
+      213: 4855044843406460900
+    second: roomSprite_101
+  - first:
+      213: 325885725686967770
+    second: roomSprite_102
+  - first:
+      213: 7539746311957218429
+    second: roomSprite_103
+  - first:
+      213: -1242616977076871414
+    second: roomSprite_104
+  - first:
+      213: -315568870223146972
+    second: roomSprite_105
+  - first:
+      213: 5689777709113992923
+    second: roomSprite_106
+  - first:
+      213: -7130015955496333550
+    second: roomSprite_107
+  - first:
+      213: -772436610798471005
+    second: roomSprite_108
+  - first:
+      213: 7425991328829010562
+    second: roomSprite_109
+  - first:
+      213: 8371983055172021099
+    second: roomSprite_110
+  - first:
+      213: -2079460315406964152
+    second: roomSprite_111
+  - first:
+      213: 8447118875434662794
+    second: roomSprite_112
+  - first:
+      213: -6414034156581317924
+    second: roomSprite_113
+  - first:
+      213: -2276845751694121718
+    second: roomSprite_114
+  - first:
+      213: 7803023894490751987
+    second: roomSprite_115
+  - first:
+      213: -4718147693876415905
+    second: roomSprite_116
+  - first:
+      213: -281357540182364222
+    second: roomSprite_117
+  - first:
+      213: 2413695950531465844
+    second: roomSprite_118
+  - first:
+      213: -661195235497692882
+    second: roomSprite_119
+  - first:
+      213: 4924331765912765443
+    second: roomSprite_120
+  - first:
+      213: 6942127884257865702
+    second: roomSprite_121
+  - first:
+      213: -8704950890863934636
+    second: roomSprite_122
+  - first:
+      213: 6511534969930466737
+    second: roomSprite_123
+  - first:
+      213: 2368148164303792408
+    second: roomSprite_124
+  - first:
+      213: -5064657547814746238
+    second: roomSprite_125
+  - first:
+      213: 5648189327784026707
+    second: roomSprite_126
+  - first:
+      213: -2464897222558146543
+    second: roomSprite_127
+  - first:
+      213: -3937467944917190213
+    second: roomSprite_128
+  - first:
+      213: -6122222417584490181
+    second: roomSprite_129
+  - first:
+      213: -5767884950367549501
+    second: roomSprite_130
+  - first:
+      213: 7314646071442749130
+    second: roomSprite_131
+  - first:
+      213: -6059442653653166832
+    second: roomSprite_132
+  - first:
+      213: 1753054708024692358
+    second: roomSprite_133
+  - first:
+      213: 74284755323769504
+    second: roomSprite_134
+  - first:
+      213: 7682843213287084299
+    second: roomSprite_135
+  - first:
+      213: -8371171571355414706
+    second: roomSprite_136
+  - first:
+      213: 8450089997264599863
+    second: roomSprite_137
+  - first:
+      213: 752024023230131729
+    second: roomSprite_138
+  - first:
+      213: 8453415398634953719
+    second: roomSprite_139
+  - first:
+      213: 4171306645213310945
+    second: roomSprite_140
+  - first:
+      213: 6626855517874907592
+    second: roomSprite_141
+  - first:
+      213: -6033891733820702445
+    second: roomSprite_142
+  - first:
+      213: -4570785213975785963
+    second: roomSprite_143
+  - first:
+      213: 7605218568665565095
+    second: roomSprite_144
+  - first:
+      213: 8830966671877704753
+    second: roomSprite_145
+  - first:
+      213: -3775049369034879008
+    second: roomSprite_146
+  - first:
+      213: 5888268942970169559
+    second: roomSprite_147
+  - first:
+      213: 1892953065962481831
+    second: roomSprite_148
+  - first:
+      213: -5763291577832940886
+    second: roomSprite_149
+  - first:
+      213: -8369453225160326316
+    second: roomSprite_150
+  - first:
+      213: -3936920349761201900
+    second: roomSprite_151
+  - first:
+      213: 4671786890157395205
+    second: roomSprite_152
+  - first:
+      213: -3117875820875890589
+    second: roomSprite_153
+  - first:
+      213: 6037986644450657275
+    second: roomSprite_154
+  - first:
+      213: -6039209688884983951
+    second: roomSprite_155
+  - first:
+      213: 4736811743336419284
+    second: roomSprite_156
+  - first:
+      213: 2534966789546831968
+    second: roomSprite_157
+  - first:
+      213: 7266246587449945117
+    second: roomSprite_158
+  - first:
+      213: 479786969816537654
+    second: roomSprite_159
+  - first:
+      213: 3269515399061479808
+    second: roomSprite_160
+  - first:
+      213: -4866416975393705380
+    second: roomSprite_161
+  - first:
+      213: -5076575045664263809
+    second: roomSprite_162
+  - first:
+      213: -1202444871648817301
+    second: roomSprite_163
+  - first:
+      213: 9087194113168360027
+    second: roomSprite_164
+  - first:
+      213: -4186531100174248366
+    second: roomSprite_165
+  - first:
+      213: -3535222968787353645
+    second: roomSprite_166
+  - first:
+      213: -1233459854147682201
+    second: roomSprite_167
+  - first:
+      213: 5916609763271754292
+    second: roomSprite_168
+  - first:
+      213: 2930592172429620928
+    second: roomSprite_169
+  - first:
+      213: -3996098034885204394
+    second: roomSprite_170
+  - first:
+      213: -1820703338202945948
+    second: roomSprite_171
+  - first:
+      213: -5326561021446900520
+    second: roomSprite_172
+  - first:
+      213: 6965658791941776650
+    second: roomSprite_173
+  - first:
+      213: 5942827463760750291
+    second: roomSprite_174
+  - first:
+      213: 2198962615934647670
+    second: roomSprite_175
+  - first:
+      213: -1189383749735362880
+    second: roomSprite_176
+  - first:
+      213: 2259740203263933034
+    second: roomSprite_177
+  - first:
+      213: 4025747694786168523
+    second: roomSprite_178
+  - first:
+      213: -5048568705603520943
+    second: roomSprite_179
+  - first:
+      213: -4769479559178023553
+    second: roomSprite_180
+  - first:
+      213: -8484446760288243824
+    second: roomSprite_181
+  - first:
+      213: -1939942069108275046
+    second: roomSprite_182
+  - first:
+      213: -19751743327365369
+    second: roomSprite_183
+  - first:
+      213: -2767703045443555633
+    second: roomSprite_184
+  - first:
+      213: -1207423954764397137
+    second: roomSprite_185
+  - first:
+      213: 6226756864519958381
+    second: roomSprite_186
+  - first:
+      213: 6325877646396037687
+    second: roomSprite_187
+  - first:
+      213: 7382727781714374497
+    second: roomSprite_188
+  - first:
+      213: -8249773076449614103
+    second: roomSprite_189
+  - first:
+      213: 8400679164385774710
+    second: roomSprite_190
+  - first:
+      213: 4421547022652385114
+    second: roomSprite_191
+  - first:
+      213: -1075330633791316522
+    second: roomSprite_192
+  - first:
+      213: -3975001960668283097
+    second: roomSprite_193
+  - first:
+      213: -5112257629862184980
+    second: roomSprite_194
+  - first:
+      213: 6130548365079779824
+    second: roomSprite_195
+  - first:
+      213: 365732712128019568
+    second: roomSprite_196
+  - first:
+      213: -1897488871750632240
+    second: roomSprite_197
+  - first:
+      213: -7989915088434520449
+    second: roomSprite_198
+  - first:
+      213: 5391255310444233672
+    second: roomSprite_199
+  - first:
+      213: -7814302689689824120
+    second: roomSprite_200
+  - first:
+      213: 5964569599847032781
+    second: roomSprite_201
+  - first:
+      213: 7642760526462171487
+    second: roomSprite_202
+  - first:
+      213: 8945411678337651564
+    second: roomSprite_203
+  - first:
+      213: 7207041473469638000
+    second: roomSprite_204
+  - first:
+      213: 3542494010118701061
+    second: roomSprite_205
+  - first:
+      213: -9065554827732377184
+    second: roomSprite_206
+  - first:
+      213: -6402013243703396126
+    second: roomSprite_207
+  - first:
+      213: 3036629952063049432
+    second: roomSprite_208
+  - first:
+      213: 4101445619746300122
+    second: roomSprite_209
+  - first:
+      213: 2152197105629292750
+    second: roomSprite_210
+  - first:
+      213: -4819791094415729482
+    second: roomSprite_211
+  - first:
+      213: -1838997308467925540
+    second: roomSprite_212
+  - first:
+      213: -9189846114333223658
+    second: roomSprite_213
+  - first:
+      213: 6650236272618587220
+    second: roomSprite_214
+  - first:
+      213: 1355599642154237805
+    second: roomSprite_215
+  - first:
+      213: 9027357687945672556
+    second: roomSprite_216
+  - first:
+      213: -5439325567437401235
+    second: roomSprite_217
+  - first:
+      213: 6810397641973378147
+    second: roomSprite_218
+  - first:
+      213: -6545873744986489840
+    second: roomSprite_219
+  - first:
+      213: -8232072704801439750
+    second: roomSprite_220
+  - first:
+      213: -8964080801518148094
+    second: roomSprite_221
+  - first:
+      213: -7968778930765512767
+    second: roomSprite_222
+  - first:
+      213: 1874920702468464385
+    second: roomSprite_223
+  - first:
+      213: -6705822407190938535
+    second: roomSprite_224
+  - first:
+      213: -981040186182667596
+    second: roomSprite_225
+  - first:
+      213: -6533228522560694667
+    second: roomSprite_226
+  - first:
+      213: -3261681920786708421
+    second: roomSprite_227
+  - first:
+      213: 8126636148581977343
+    second: roomSprite_228
+  - first:
+      213: -6769622252975041258
+    second: roomSprite_229
+  - first:
+      213: 6935849920666395614
+    second: roomSprite_230
+  - first:
+      213: 4715337319611440277
+    second: roomSprite_231
+  - first:
+      213: -4298298349157671489
+    second: roomSprite_232
+  - first:
+      213: 1284110304666552612
+    second: roomSprite_233
+  - first:
+      213: 8236022910674256616
+    second: roomSprite_234
+  - first:
+      213: 8120007832207986744
+    second: roomSprite_235
+  - first:
+      213: 1204116471691469976
+    second: roomSprite_236
+  - first:
+      213: 5387785605460984148
+    second: roomSprite_237
+  - first:
+      213: 5190723887667941878
+    second: roomSprite_238
+  - first:
+      213: -1098151069108550912
+    second: roomSprite_239
+  - first:
+      213: 9153128542293998391
+    second: roomSprite_240
+  - first:
+      213: -1191844979476982925
+    second: roomSprite_241
+  - first:
+      213: 8287396881188260976
+    second: roomSprite_242
+  - first:
+      213: -8054922149123928468
+    second: roomSprite_243
+  - first:
+      213: -287937275826682438
+    second: roomSprite_244
+  - first:
+      213: -3200433205029028776
+    second: roomSprite_245
+  - first:
+      213: -532164357162401942
+    second: roomSprite_246
+  - first:
+      213: 9097763581391138470
+    second: roomSprite_247
+  - first:
+      213: -1031141828767736930
+    second: roomSprite_248
+  - first:
+      213: -2744108383832158786
+    second: roomSprite_249
+  - first:
+      213: 8891358133684637399
+    second: roomSprite_250
+  - first:
+      213: -6448320730560718569
+    second: roomSprite_251
+  - first:
+      213: -8708933621618819462
+    second: roomSprite_252
+  - first:
+      213: 694970720747847890
+    second: roomSprite_253
+  - first:
+      213: 7162547258992869793
+    second: roomSprite_254
+  - first:
+      213: -4994867423351697312
+    second: roomSprite_255
+  - first:
+      213: -6852527465673685423
+    second: roomSprite_256
+  - first:
+      213: -7303386469396898022
+    second: roomSprite_257
+  - first:
+      213: -6179111453889022302
+    second: roomSprite_258
+  - first:
+      213: 5503516726217274424
+    second: roomSprite_259
+  - first:
+      213: -648262800193037924
+    second: roomSprite_260
+  - first:
+      213: 6308220522451339938
+    second: roomSprite_261
+  - first:
+      213: 6760516287737002111
+    second: roomSprite_262
+  - first:
+      213: 6858099718548872778
+    second: roomSprite_263
+  - first:
+      213: -1004412135049879962
+    second: roomSprite_264
+  - first:
+      213: -8944309892674893210
+    second: roomSprite_265
+  - first:
+      213: -8673685236927129757
+    second: roomSprite_266
+  - first:
+      213: -2336337972531626998
+    second: roomSprite_267
+  - first:
+      213: -2740100538978124685
+    second: roomSprite_268
+  - first:
+      213: 272327598068119393
+    second: roomSprite_269
+  - first:
+      213: 3027698297665953159
+    second: roomSprite_270
+  - first:
+      213: -8982323856919950492
+    second: roomSprite_271
+  - first:
+      213: 3540342377872237345
+    second: roomSprite_272
+  - first:
+      213: 1426092419943508786
+    second: roomSprite_273
+  - first:
+      213: -7133434277976884931
+    second: roomSprite_274
+  - first:
+      213: -3371241328962730892
+    second: roomSprite_275
+  - first:
+      213: -6745375093027145685
+    second: roomSprite_276
+  - first:
+      213: -509526725591998662
+    second: roomSprite_277
+  - first:
+      213: -4191352242800222228
+    second: roomSprite_278
+  - first:
+      213: 7912818724943438024
+    second: roomSprite_279
+  - first:
+      213: -7384396937717422518
+    second: roomSprite_280
+  - first:
+      213: -3707011125140508920
+    second: roomSprite_281
+  - first:
+      213: -1235594855810288951
+    second: roomSprite_282
+  - first:
+      213: 7566867302872584574
+    second: roomSprite_283
+  - first:
+      213: 1247641698475095231
+    second: roomSprite_284
+  - first:
+      213: 4052966408945313591
+    second: roomSprite_285
+  - first:
+      213: 6709256915285405450
+    second: roomSprite_286
+  - first:
+      213: 5409920341123175716
+    second: roomSprite_287
+  - first:
+      213: -2855867892532000995
+    second: roomSprite_288
+  - first:
+      213: 2902731619388548954
+    second: roomSprite_289
+  - first:
+      213: 3596371126958952736
+    second: roomSprite_290
+  - first:
+      213: -1925098022746199025
+    second: roomSprite_291
+  - first:
+      213: 9130528151674291130
+    second: roomSprite_292
+  - first:
+      213: -2499394022105666423
+    second: roomSprite_293
+  - first:
+      213: 4934320017797568197
+    second: roomSprite_294
+  - first:
+      213: 2868478362544302232
+    second: roomSprite_295
+  - first:
+      213: -7841113521639110864
+    second: roomSprite_296
+  - first:
+      213: 3130120733287352260
+    second: roomSprite_297
+  - first:
+      213: -2936525859085114436
+    second: roomSprite_298
+  - first:
+      213: 7300075469565801248
+    second: roomSprite_299
+  - first:
+      213: 543841457384014433
+    second: roomSprite_300
+  - first:
+      213: -3154295056648365065
+    second: roomSprite_301
+  - first:
+      213: 720576284055472366
+    second: roomSprite_302
+  - first:
+      213: 8853465498225925927
+    second: roomSprite_303
+  - first:
+      213: 5509088123822329580
+    second: roomSprite_304
+  - first:
+      213: -7558952540931231035
+    second: roomSprite_305
+  - first:
+      213: -7460983326307467553
+    second: roomSprite_306
+  - first:
+      213: -4131365639436943226
+    second: roomSprite_307
+  - first:
+      213: 8414648177608512675
+    second: roomSprite_308
+  - first:
+      213: 1423286573053310809
+    second: roomSprite_309
+  - first:
+      213: -3306474837022861818
+    second: roomSprite_310
+  - first:
+      213: -6809206567377744716
+    second: roomSprite_311
+  - first:
+      213: 7060382858571061356
+    second: roomSprite_312
+  - first:
+      213: 8471747936735516374
+    second: roomSprite_313
+  - first:
+      213: -7194494213025116327
+    second: roomSprite_314
+  - first:
+      213: 8740262223792379956
+    second: roomSprite_315
+  - first:
+      213: 8107686410512053072
+    second: roomSprite_316
+  - first:
+      213: -8826246838842324112
+    second: roomSprite_317
+  - first:
+      213: 539937470718185209
+    second: roomSprite_318
+  - first:
+      213: -141322293776509055
+    second: roomSprite_319
+  - first:
+      213: -726525185630050508
+    second: roomSprite_320
+  - first:
+      213: 2737830137074655425
+    second: roomSprite_321
+  - first:
+      213: 6673573989914679852
+    second: roomSprite_322
+  - first:
+      213: 435354972969874343
+    second: roomSprite_323
+  - first:
+      213: -820288575006727882
+    second: roomSprite_324
+  - first:
+      213: -1280499017488188785
+    second: roomSprite_325
+  - first:
+      213: -5821167574281563338
+    second: roomSprite_326
+  - first:
+      213: 3408966890755699011
+    second: roomSprite_327
+  - first:
+      213: 3881883442529400601
+    second: roomSprite_328
+  - first:
+      213: 8919393444132564096
+    second: roomSprite_329
+  - first:
+      213: 8732975058831514245
+    second: roomSprite_330
+  - first:
+      213: -7653426746425858623
+    second: roomSprite_331
+  - first:
+      213: 7902944485485988793
+    second: roomSprite_332
+  - first:
+      213: 5730995073696644712
+    second: roomSprite_333
+  - first:
+      213: -996250341733166583
+    second: roomSprite_334
+  - first:
+      213: -3863797013410727426
+    second: roomSprite_335
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roomSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592e1847c3d612d0800000000000000
+      internalID: -3308224023395161765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1036ed3336042ca0800000000000000
+      internalID: -6042697982872768485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45749b0ca02bb3510800000000000000
+      internalID: 1530012257675200340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02fd786cae6f110800000000000000
+      internalID: 1294480081319567584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97aa8729562c6400800000000000000
+      internalID: 318671837993805725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf6555fa01448560800000000000000
+      internalID: 7315043210078023642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eda63d7d4085340800000000000000
+      internalID: 4852633923503185440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff27b3d7f20a4d00800000000000000
+      internalID: 957581134201827327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fed3285b6b19050800000000000000
+      internalID: 5805622285347712807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d67612fd092fd60800000000000000
+      internalID: 7922553982510656873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9acd6604686f6d0800000000000000
+      internalID: -2957028494160385619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496d343213328fa0800000000000000
+      internalID: -5800017216820909749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683bd6f90affd96e0800000000000000
+      internalID: -1829024808307936378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec23fe853c10a20800000000000000
+      internalID: 3026915211307306574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b75efea2c712890800000000000000
+      internalID: -7484564581857789067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b828461adf47a0800000000000000
+      internalID: -6390649556980681318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d83f7cd8c66a00800000000000000
+      internalID: 749507237356557568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a5055bfb8a5210800000000000000
+      internalID: 1322523352166146898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab60d5de473b630800000000000000
+      internalID: 3941622661696109135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493fdb5ba6e35f80800000000000000
+      internalID: -8118892079563720370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3911752ca4be10800000000000000
+      internalID: 2212582593757003264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693530e06870c06a0800000000000000
+      internalID: -6481797491350875242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e5c434470e67250800000000000000
+      internalID: 5942183548311854627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20394a7c1d62c79a0800000000000000
+      internalID: -6234065101748137214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2e1a9edbb09cec0800000000000000
+      internalID: -3546290321281129740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef6e39d55006930800000000000000
+      internalID: 4134310357397601915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624afe270aeb06190800000000000000
+      internalID: -7971161744113425370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a154d0f6e126fbb0800000000000000
+      internalID: -4902693868579565150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acbc0057ce8cfa00800000000000000
+      internalID: 791664621203012770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df43acd4f6fec00800000000000000
+      internalID: 932086027784617349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30a73ef286c20c0800000000000000
+      internalID: -4599186564562943040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e8aa1497586cf0800000000000000
+      internalID: -258860684959749644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9304f6412db6db80800000000000000
+      internalID: -8370294906799520867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ba0f79e0cbb3760800000000000000
+      internalID: 7438745980397202268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ccd82d39bffd780800000000000000
+      internalID: -8655923346471531470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed39b1b3199ee790800000000000000
+      internalID: -7498888019660161560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f2661ba0463440800000000000000
+      internalID: 4915187146880644583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5f088a6bf6d140800000000000000
+      internalID: 4744255692449210243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c0563082fe4dd0800000000000000
+      internalID: -2499794110663047406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14020742b54f5a360800000000000000
+      internalID: 7180413853202653249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_40
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e445db9b4b49eb90800000000000000
+      internalID: -7212150540148063002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 365
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad58be541e92aa0800000000000000
+      internalID: -6185164922796254636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8933724e16c1b2660800000000000000
+      internalID: 7362009222632387480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a356bc734011b5e40800000000000000
+      internalID: 5646125267652666682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8104500682cf8120800000000000000
+      internalID: 2418365405708157324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f4f9cac7febac0800000000000000
+      internalID: -3837357382129356249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cfbbc440e37d60800000000000000
+      internalID: 7886893958536612009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97947a8b6b263f0800000000000000
+      internalID: -908963270578570787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f591520ef0212170800000000000000
+      internalID: 8151833075849991666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb5b9cbb608b15a0800000000000000
+      internalID: -6549500032866100249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a39daf3da64d950800000000000000
+      internalID: 6472916023117429358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4747c529a83dc0800000000000000
+      internalID: -3658988717516305236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176cefc481004540800000000000000
+      internalID: 4989990057062197018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a0a4fb6698b260800000000000000
+      internalID: 7113601001841533878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1758dd380f02800800000000000000
+      internalID: 585732400706056633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_55
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45bfdaec95e38640800000000000000
+      internalID: 5081157266722239820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c58229d506582a0800000000000000
+      internalID: -6735871712662365128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_57
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376564d2d437cd5a0800000000000000
+      internalID: -6495189787265837453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc56028215146230800000000000000
+      internalID: 3631050368802512125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd43180fd9a53fc0800000000000000
+      internalID: -3515717158714520134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_60
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad69af0277091c4c0800000000000000
+      internalID: -4268972130441718054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c122f76a45ce3570800000000000000
+      internalID: 8448406874355802567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 340
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a35f24e6e50d60800000000000000
+      internalID: 7855938992738640432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b57933cd44767b0800000000000000
+      internalID: -5231136729618490619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b48829506f59a0800000000000000
+      internalID: -6242164622464075553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeff6b2edc73a9060800000000000000
+      internalID: 6960937531465990122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24789d0e129290b0800000000000000
+      internalID: -5723351518659709909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c259a7344a0105a0800000000000000
+      internalID: -6556948294366833978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9faf88637d3a1550800000000000000
+      internalID: 6132281408503132060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91fa3decab19cd0800000000000000
+      internalID: -2553054116264863246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5840722210f1a0800000000000000
+      internalID: -6777897500070617649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124ac980e94ae5b0800000000000000
+      internalID: -5338373179561065964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2c9d35daf66150800000000000000
+      internalID: 5865651358465273598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309717ecf77814260800000000000000
+      internalID: 7080089072197269763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f277c817e01239770800000000000000
+      internalID: 8616266858008180527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc20a0a6b3aed8e0800000000000000
+      internalID: -1666714807306277690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d3bed92b50f2b40800000000000000
+      internalID: 5417555141461753179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5939a29c57e3fc020800000000000000
+      internalID: 2364177004999906197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_78
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65705fd2cf7d6cda0800000000000000
+      internalID: -5924810781656545450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392ef88f39187e80800000000000000
+      internalID: -8180760962446513867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_80
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a2b77ce0b13a00800000000000000
+      internalID: 734562743905069056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5692c4235a4a732a0800000000000000
+      internalID: -6757751686425728667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_82
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2608a0394bfaed00800000000000000
+      internalID: 1002890158810859055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 315
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49bf49eb2887330800000000000000
+      internalID: 3708858048194516195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e112ffafe3c43380800000000000000
+      internalID: -8992347121735560731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc61dc3e8f3d2ca0800000000000000
+      internalID: -6040101645095703346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_86
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aead55038157ad0800000000000000
+      internalID: -2705229405288207766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_87
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab292cc8e78fd00800000000000000
+      internalID: 1006693659742222917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadff562bfe19340800000000000000
+      internalID: 4868936221658700481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_89
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda1f1348b25b950800000000000000
+      internalID: 6464120686933814710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8b550e67511590800000000000000
+      internalID: -7705281357406303560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9174b779df27f6310800000000000000
+      internalID: 1400464442629244697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b0ffdf2bd096d90800000000000000
+      internalID: -7104131874783556783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1030bb055d7f2c0800000000000000
+      internalID: -4397811968392363554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_94
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff80ddbfb13b9c0800000000000000
+      internalID: -3912752882695733467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_95
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862bfa774bdd64c0800000000000000
+      internalID: -4292533769761773942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5462d9f9dd7763ce0800000000000000
+      internalID: -1425820438266829243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_97
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef915f4093d01d1c0800000000000000
+      internalID: -4480785615709464066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_98
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137a4430058b6a50800000000000000
+      internalID: 6515447521845343007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_99
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17e31eb24adb020800000000000000
+      internalID: 2359222288181522928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_100
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63c99d8f4d23470800000000000000
+      internalID: 8372988822503044847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e785dbdf85906340800000000000000
+      internalID: 4855044843406460900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_102
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add21f44757c58400800000000000000
+      internalID: 325885725686967770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_103
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7485ccc25f82a860800000000000000
+      internalID: 7539746311957218429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_104
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 290
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f9679617651cee0800000000000000
+      internalID: -1242616977076871414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4209d24d8cfde9bf0800000000000000
+      internalID: -315568870223146972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6eca24ea626fe40800000000000000
+      internalID: 5689777709113992923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_107
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f06c1d3481d0d90800000000000000
+      internalID: -7130015955496333550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_108
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8b9d9bef0c745f0800000000000000
+      internalID: -772436610798471005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_109
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282fbfbd4cb6e0760800000000000000
+      internalID: 7425991328829010562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_110
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2e156b324f2470800000000000000
+      internalID: 8371983055172021099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a65af4cd54423e0800000000000000
+      internalID: -2079460315406964152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_112
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb7c9ccd13a3570800000000000000
+      internalID: 8447118875434662794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29fb7eae5ccf6a0800000000000000
+      internalID: -6414034156581317924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052ae12ad40760e0800000000000000
+      internalID: -2276845751694121718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_115
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a10dc3e8e94c60800000000000000
+      internalID: 7803023894490751987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_116
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52faa49ba5c58eb0800000000000000
+      internalID: -4718147693876415905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6d82deca681cf0800000000000000
+      internalID: -281357540182364222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721a3fbdab2f7120800000000000000
+      internalID: 2413695950531465844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_119
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21bafcbf66f2d6f0800000000000000
+      internalID: -661195235497692882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_120
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304076f96adb65440800000000000000
+      internalID: 4924331765912765443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef268e9784675060800000000000000
+      internalID: 6942127884257865702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_122
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453c5da194dc13780800000000000000
+      internalID: -8704950890863934636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b54d393e8e9d5a50800000000000000
+      internalID: 6511534969930466737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_124
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81922dc553a5dd020800000000000000
+      internalID: 2368148164303792408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 265
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28740814bc8b6b9b0800000000000000
+      internalID: -5064657547814746238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35228baa446626e40800000000000000
+      internalID: 5648189327784026707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_127
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102391290deacdd0800000000000000
+      internalID: -2464897222558146543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_128
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb939b404cd4b59c0800000000000000
+      internalID: -3937467944917190213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_129
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3971fbe52f790ba0800000000000000
+      internalID: -6122222417584490181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7450c723b54ffa0800000000000000
+      internalID: -5767884950367549501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_131
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac63d0ae8d7d28560800000000000000
+      internalID: 7314646071442749130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0151724c20988eba0800000000000000
+      internalID: -6059442653653166832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e43a708f9145810800000000000000
+      internalID: 1753054708024692358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2dc456799e70100800000000000000
+      internalID: 74284755323769504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015ff07231fe9a60800000000000000
+      internalID: 7682843213287084299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_136
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f0387eecf93db80800000000000000
+      internalID: -8371171571355414706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_137
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bb90ff410c44570800000000000000
+      internalID: 8450089997264599863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_138
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e213f5dd9bf6a00800000000000000
+      internalID: 752024023230131729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_139
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb14765480905570800000000000000
+      internalID: 8453415398634953719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef6a251b4573e930800000000000000
+      internalID: 4171306645213310945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_141
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c965c0abf157fb50800000000000000
+      internalID: 6626855517874907592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118370ef6f434ca0800000000000000
+      internalID: -6033891733820702445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_143
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e8d50a01f4190c0800000000000000
+      internalID: -4570785213975785963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_144
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a704887ef92b8960800000000000000
+      internalID: 7605218568665565095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_145
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c859c4665ed8a70800000000000000
+      internalID: 8830966671877704753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 240
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0d1599945c9bc0800000000000000
+      internalID: -3775049369034879008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a3bff76557b150800000000000000
+      internalID: 5888268942970169559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_148
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82e21c8ce154a10800000000000000
+      internalID: 1892953065962481831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_149
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa544e58dca400b0800000000000000
+      internalID: -5763291577832940886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_150
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453421e82aab9db80800000000000000
+      internalID: -8369453225160326316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_151
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191a73fccf3d59c0800000000000000
+      internalID: -3936920349761201900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_152
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d8826ac6585d040800000000000000
+      internalID: 4671786890157395205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c9eac5741bb4d0800000000000000
+      internalID: -3117875820875890589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_154
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c80dccdc3bc350800000000000000
+      internalID: 6037986644450657275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_155
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c9e9f8ca603ca0800000000000000
+      internalID: -6039209688884983951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_156
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df47711f298cb140800000000000000
+      internalID: 4736811743336419284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_157
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f9504dd20e2320800000000000000
+      internalID: 2534966789546831968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_158
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2957e5c4e6d460800000000000000
+      internalID: 7266246587449945117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_159
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a96cff4bb88a600800000000000000
+      internalID: 479786969816537654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_160
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081aabccee6af5d20800000000000000
+      internalID: 3269515399061479808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_161
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523ab45b83077cb0800000000000000
+      internalID: -4866416975393705380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_162
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b19f84e16c89b0800000000000000
+      internalID: -5076575045664263809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_163
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc16392ce005fe0800000000000000
+      internalID: -1202444871648817301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_164
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52cb6066e23c1e70800000000000000
+      internalID: 9087194113168360027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_165
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2561df4452476e5c0800000000000000
+      internalID: -4186531100174248366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_166
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb0a7b07d50fec0800000000000000
+      internalID: -3535222968787353645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_167
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76082dc3cced1eee0800000000000000
+      internalID: -1233459854147682201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432cb6e6b350c1250800000000000000
+      internalID: 5916609763271754292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_169
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6353bcd0e8ba820800000000000000
+      internalID: 2930592172429620928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_170
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e70f62020b88c0800000000000000
+      internalID: -3996098034885204394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_171
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ab0dd5ff8bb6e0800000000000000
+      internalID: -1820703338202945948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_172
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4373ae8f04416b0800000000000000
+      internalID: -5326561021446900520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_173
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05244004cdfaa060800000000000000
+      internalID: 6965658791941776650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_174
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d625e2871a297250800000000000000
+      internalID: 5942827463760750291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_175
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67df52d39d8448e10800000000000000
+      internalID: 2198962615934647670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_176
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec66ff7c57e7fe0800000000000000
+      internalID: -1189383749735362880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_177
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a37340eb53c5f10800000000000000
+      internalID: 2259740203263933034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_178
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c317f2345ed730800000000000000
+      internalID: 4025747694786168523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_179
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156395eb281efe9b0800000000000000
+      internalID: -5048568705603520943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_180
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d05b75c976fcdb0800000000000000
+      internalID: -4769479559178023553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_181
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2e41cf90314a80800000000000000
+      internalID: -8484446760288243824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_182
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9807f567f0f315e0800000000000000
+      internalID: -1939942069108275046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_183
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071743e4e3d9bff0800000000000000
+      internalID: -19751743327365369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_184
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee19c7eb42799d0800000000000000
+      internalID: -2767703045443555633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_185
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa588f27f4e5e3fe0800000000000000
+      internalID: -1207423954764397137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_186
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fef64a062e96650800000000000000
+      internalID: 6226756864519958381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_187
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a150614380ac750800000000000000
+      internalID: 6325877646396037687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_188
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f2e765dc7b47660800000000000000
+      internalID: 7382727781714374497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a3ac981be28d80800000000000000
+      internalID: -8249773076449614103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_190
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c4d39f035359470800000000000000
+      internalID: 8400679164385774710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_191
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a1ea379d7c5d30800000000000000
+      internalID: 4421547022652385114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_192
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd5c46c78a311f0800000000000000
+      internalID: -1075330633791316522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_193
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fb2e8f6c4f5d8c0800000000000000
+      internalID: -3975001960668283097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_194
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b8c385cc9d09b0800000000000000
+      internalID: -5112257629862184980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_195
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99eeac145141550800000000000000
+      internalID: 6130548365079779824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_196
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7125c6f7531500800000000000000
+      internalID: 365732712128019568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_197
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcfb0aace3caa5e0800000000000000
+      internalID: -1897488871750632240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_198
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e93583f8e1e1190800000000000000
+      internalID: -7989915088434520449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_199
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c38778042691da40800000000000000
+      internalID: 5391255310444233672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_200
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88498ad0b150e8390800000000000000
+      internalID: -7814302689689824120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_201
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e9fc037866c250800000000000000
+      internalID: 5964569599847032781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_202
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b72ba43a801a60800000000000000
+      internalID: 7642760526462171487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_203
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6352f0d68c742c70800000000000000
+      internalID: 8945411678337651564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_204
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756aab190e840460800000000000000
+      internalID: 7207041473469638000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_205
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50003148887792130800000000000000
+      internalID: 3542494010118701061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_206
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12f216aeda03280800000000000000
+      internalID: -9065554827732377184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_207
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e876b9cfda7727a0800000000000000
+      internalID: -6402013243703396126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_208
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de87074ad6442a20800000000000000
+      internalID: 3036629952063049432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_209
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad06f8e8f034be830800000000000000
+      internalID: 4101445619746300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec868af5dd32edd10800000000000000
+      internalID: 2152197105629292750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_211
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc52c53989ac1db0800000000000000
+      internalID: -4819791094415729482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_212
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddaeddf0b19a76e0800000000000000
+      internalID: -1838997308467925540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_213
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6151aae16ab177080800000000000000
+      internalID: -9189846114333223658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_214
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45449ddc7a26a4c50800000000000000
+      internalID: 6650236272618587220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_215
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fff3831be00d210800000000000000
+      internalID: 1355599642154237805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_216
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b46afcfd974d70800000000000000
+      internalID: 9027357687945672556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_217
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6391371732a384b0800000000000000
+      internalID: -5439325567437401235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_218
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c2bf48294638e50800000000000000
+      internalID: 6810397641973378147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_219
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c368da2826825a0800000000000000
+      internalID: -6545873744986489840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_220
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afffe198d7dc1cd80800000000000000
+      internalID: -8232072704801439750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_221
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206ac973100399380800000000000000
+      internalID: -8964080801518148094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_222
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfba1a68c5396190800000000000000
+      internalID: -7968778930765512767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_223
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f98a4f17e050a10800000000000000
+      internalID: 1874920702468464385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_224
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7784bc0220f2a0800000000000000
+      internalID: -6705822407190938535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_225
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2f2300625a262f0800000000000000
+      internalID: -981040186182667596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_226
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d154f54f4555a0800000000000000
+      internalID: -6533228522560694667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_227
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c13df29d2cb2d0800000000000000
+      internalID: -3261681920786708421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_228
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc317358c97c070800000000000000
+      internalID: 8126636148581977343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_229
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d7db8d687d02a0800000000000000
+      internalID: -6769622252975041258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_230
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 140
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3edb051c6114060800000000000000
+      internalID: 6935849920666395614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c159b2f4e307140800000000000000
+      internalID: 4715337319611440277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_232
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd1fcfbc606954c0800000000000000
+      internalID: -4298298349157671489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_233
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4298112c48312d110800000000000000
+      internalID: 1284110304666552612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_234
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c7b0733b3c4270800000000000000
+      internalID: 8236022910674256616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_235
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830952c0a1010b070800000000000000
+      internalID: 8120007832207986744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_236
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ed532d81e5b010800000000000000
+      internalID: 1204116471691469976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_237
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510773667245ca40800000000000000
+      internalID: 5387785605460984148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_238
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1159bcfd7290840800000000000000
+      internalID: 5190723887667941878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_239
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c110cb6592c0f0800000000000000
+      internalID: -1098151069108550912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_240
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b3ce2f9e1760f70800000000000000
+      internalID: 9153128542293998391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_241
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37311fa4e47b57fe0800000000000000
+      internalID: -1191844979476982925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_242
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c08ef0e8fb20370800000000000000
+      internalID: 8287396881188260976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_243
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eca007bfa273090800000000000000
+      internalID: -8054922149123928468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_244
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5c1ccb29a010cf0800000000000000
+      internalID: -287937275826682438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_245
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c31e6e4f6c593d0800000000000000
+      internalID: -3200433205029028776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_246
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff531365f5d98f0800000000000000
+      internalID: -532164357162401942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_247
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeed4776cfb14e70800000000000000
+      internalID: 9097763581391138470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_248
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b904f48f5a0b1f0800000000000000
+      internalID: -1031141828767736930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_249
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd438cb6f7fae9d0800000000000000
+      internalID: -2744108383832158786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_250
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8d093d13746b70800000000000000
+      internalID: 8891358133684637399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_251
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 115
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191421d576f286a0800000000000000
+      internalID: -6448320730560718569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e34f65307a32780800000000000000
+      internalID: -8708933621618819462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_253
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0097b303805a900800000000000000
+      internalID: 694970720747847890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_254
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1c73388ca766360800000000000000
+      internalID: 7162547258992869793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_255
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06093fada8aaeaab0800000000000000
+      internalID: -4994867423351697312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_256
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15689e2839ee6e0a0800000000000000
+      internalID: -6852527465673685423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_257
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f143a73b825aa90800000000000000
+      internalID: -7303386469396898022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_258
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b56bfed26f3aa0800000000000000
+      internalID: -6179111453889022302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_259
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f999bd4b606c40800000000000000
+      internalID: 5503516726217274424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_260
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d469fa68e007f0800000000000000
+      internalID: -648262800193037924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_261
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa8a8d842d4b8750800000000000000
+      internalID: 6308220522451339938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_262
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787ec4bebd22dd50800000000000000
+      internalID: 6760516287737002111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_263
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4edf46bb5ddc2f50800000000000000
+      internalID: 6858099718548872778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_264
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e924a1c7c9f02f0800000000000000
+      internalID: -1004412135049879962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_265
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac916aa8d6fd380800000000000000
+      internalID: -8944309892674893210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_266
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367986f6b31e0a780800000000000000
+      internalID: -8673685236927129757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_267
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cfeff0ef8a39fd0800000000000000
+      internalID: -2336337972531626998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_268
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3a55d31539f9d0800000000000000
+      internalID: -2740100538978124685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_269
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167b261f18087c300800000000000000
+      internalID: 272327598068119393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_270
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1f6f6f8b840a20800000000000000
+      internalID: 3027698297665953159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_271
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b05c2ea00685380800000000000000
+      internalID: -8982323856919950492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_272
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123265892a2d12130800000000000000
+      internalID: 3540342377872237345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2c9b008f7ac310800000000000000
+      internalID: 1426092419943508786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_274
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39b7989153f00d90800000000000000
+      internalID: -7133434277976884931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_275
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748f077fd1f631d0800000000000000
+      internalID: -3371241328962730892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_276
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287957671d9362a0800000000000000
+      internalID: -6745375093027145685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_277
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5585842ccde8f0800000000000000
+      internalID: -509526725591998662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_278
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1b57875355d5c0800000000000000
+      internalID: -4191352242800222228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_279
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c02058d4baffcd60800000000000000
+      internalID: 7912818724943438024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_280
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46eedefb1a558990800000000000000
+      internalID: -7384396937717422518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_281
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f2493b50d0e8cc0800000000000000
+      internalID: -3707011125140508920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_282
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b02d66094adee0800000000000000
+      internalID: -1235594855810288951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_283
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711d3298b9e20960800000000000000
+      internalID: 7566867302872584574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_284
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b294b383805110800000000000000
+      internalID: 1247641698475095231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_285
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a6c3b9770f3830800000000000000
+      internalID: 4052966408945313591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_286
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6b660e911c1d50800000000000000
+      internalID: 6709256915285405450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_287
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259ec323e5e31b40800000000000000
+      internalID: 5409920341123175716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_288
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17cf24684bed58d0800000000000000
+      internalID: -2855867892532000995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_289
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e2fb4703984820800000000000000
+      internalID: 2902731619388548954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_290
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0211cde4c70e8e130800000000000000
+      internalID: 3596371126958952736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_291
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce7644c8da845e0800000000000000
+      internalID: -1925098022746199025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_292
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab300447af626be70800000000000000
+      internalID: 9130528151674291130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_293
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c28a6116e505dd0800000000000000
+      internalID: -2499394022105666423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65cecb9e93a7440800000000000000
+      internalID: 4934320017797568197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_295
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e8557fd1eec720800000000000000
+      internalID: 2868478362544302232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_296
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037403bcbc4ce2390800000000000000
+      internalID: -7841113521639110864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_297
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78dab093c607b20800000000000000
+      internalID: 3130120733287352260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_298
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ab7f1a4d5f37d0800000000000000
+      internalID: -2936525859085114436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_299
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023330d46f31f4560800000000000000
+      internalID: 7300075469565801248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_300
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16241819cec1c8700800000000000000
+      internalID: 543841457384014433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_301
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb14bfab51b934d0800000000000000
+      internalID: -3154295056648365065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_302
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee882b40050000a00800000000000000
+      internalID: 720576284055472366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_303
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fdee486f3ddda70800000000000000
+      internalID: 8853465498225925927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_304
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec0c0d576347c40800000000000000
+      internalID: 5509088123822329580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_305
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f1cb86b4391790800000000000000
+      internalID: -7558952540931231035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_306
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb458d133457890800000000000000
+      internalID: -7460983326307467553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_307
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6804b1007d07aa6c0800000000000000
+      internalID: -4131365639436943226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_308
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45e305fe5d6c470800000000000000
+      internalID: 8414648177608512675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_309
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fc68e89780c310800000000000000
+      internalID: 1423286573053310809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_310
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6061c7877aa0d12d0800000000000000
+      internalID: -3306474837022861818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_311
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc413524b6d081a0800000000000000
+      internalID: -6809206567377744716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_312
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6892676dc48bf160800000000000000
+      internalID: 7060382858571061356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_313
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d4cbfcd1b19570800000000000000
+      internalID: 8471747936735516374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_314
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 40
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc80e91a5082c90800000000000000
+      internalID: -7194494213025116327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43819e44f26ab4970800000000000000
+      internalID: 8740262223792379956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_316
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05335d085d9448070800000000000000
+      internalID: 8107686410512053072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_317
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b83e6734fd28580800000000000000
+      internalID: -8826246838842324112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_318
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8417d44e3e7700800000000000000
+      internalID: 539937470718185209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_319
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879b906f1ce90ef0800000000000000
+      internalID: -141322293776509055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_320
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4376526613ddae5f0800000000000000
+      internalID: -726525185630050508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_321
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a1b7010abef520800000000000000
+      internalID: 2737830137074655425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_322
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a962b8f2c4d9c50800000000000000
+      internalID: 6673573989914679852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_323
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b1139a01ba0600800000000000000
+      internalID: 435354972969874343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_324
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631a96913efbd94f0800000000000000
+      internalID: -820288575006727882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_325
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a316f8de0ca3ee0800000000000000
+      internalID: -1280499017488188785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_326
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633dcecdeee073fa0800000000000000
+      internalID: -5821167574281563338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_327
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bf8e53551f4f20800000000000000
+      internalID: 3408966890755699011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_328
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177f638c683fd530800000000000000
+      internalID: 3881883442529400601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_329
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2879941d08cb70800000000000000
+      internalID: 8919393444132564096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_330
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9ff5fb82c13970800000000000000
+      internalID: 8732975058831514245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_331
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c520d87ce099c590800000000000000
+      internalID: -7653426746425858623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_332
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb46015326ecad60800000000000000
+      internalID: 7902944485485988793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_333
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eb339c7a5988f40800000000000000
+      internalID: 5730995073696644712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_334
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90212a1b79b9c22f0800000000000000
+      internalID: -996250341733166583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roomSprite_335
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 15
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9307b6619016ac0800000000000000
+      internalID: -3863797013410727426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

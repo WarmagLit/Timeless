@@ -3962,7 +3962,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &673953493
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4380,7 +4380,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a35d4ffe96492f749994e2b519db29f5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 063012a0676569b46aca6e89bb45a16d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4435,7 +4435,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89b948fb4b9985b489c88ce8ec185a73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  overloaded: 1
+  sprites:
+  - {fileID: 21300000, guid: 063012a0676569b46aca6e89bb45a16d, type: 3}
+  - {fileID: 21300000, guid: a35d4ffe96492f749994e2b519db29f5, type: 3}
+  overloaded: 0
   bulletSpeed: 10
   shootCooldown: 15
   timeBetweenShots: 0.1
@@ -4461,7 +4464,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5625, y: 1.5625}
+    oldSize: {x: 3.125, y: 2.1875}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -5205,7 +5208,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc80ef578f9978c4f9f61878d9f3d4db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  overloaded: 1
+  sprites:
+  - {fileID: 21300000, guid: 063012a0676569b46aca6e89bb45a16d, type: 3}
+  - {fileID: 21300000, guid: b5d9657694e454e47bf07c61b0f70f7a, type: 3}
+  overloaded: 0
   stepAngle: 10
   startAngle: -360
   bulletSpeed: 10
@@ -5215,9 +5221,6 @@ MonoBehaviour:
   firePoint: {fileID: 1548446390}
   bulletPrefab: {fileID: 9195239668230041216, guid: d5817ec84d8a81a41a1fd1e09dddd944,
     type: 3}
-  sprites:
-  - {fileID: 21300000, guid: 063012a0676569b46aca6e89bb45a16d, type: 3}
-  - {fileID: 21300000, guid: b5d9657694e454e47bf07c61b0f70f7a, type: 3}
 --- !u!1 &1581503132
 GameObject:
   m_ObjectHideFlags: 0

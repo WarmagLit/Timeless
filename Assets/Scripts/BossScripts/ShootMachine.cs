@@ -13,7 +13,7 @@ public class ShootMachine : Machine
 
     public Transform firePoint;
     public GameObject bulletPrefab;
-    
+
     private float lastShootSeries = -100;
 
     protected override void Update()

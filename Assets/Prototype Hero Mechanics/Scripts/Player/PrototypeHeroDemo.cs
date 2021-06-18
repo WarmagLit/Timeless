@@ -6,6 +6,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
 
     [Header("Variables")]
     [SerializeField] bool  shooting = true;
+    [SerializeField] GameObject deathMenuUI;
 
     private PlayerHeroMovement movementScript;
     private HealthScript healthScript;
@@ -78,7 +79,9 @@ public class PrototypeHeroDemo : BaseBehaviour {
 
     private void Die()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        deathMenuUI.SetActive(true);
+        Time.timeScale = 0f;
+        FindObjectOfType<PauseMenu>().died = true;
     }
 
     private void MoveInputHandle() 

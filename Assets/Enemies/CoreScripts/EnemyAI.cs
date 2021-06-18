@@ -8,13 +8,13 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] float speed = 200f;
     [SerializeField] float nextWaypointDistance = 3f;
 
-    private Path path;
+    public Path path;
     private int currentWaypoint = 0;
     private bool reachedEndOfPath = false;
 
-    private Seeker seeker;
-    private Rigidbody2D rigidbody;
-    private Transform target;
+    public Seeker seeker;
+    public Rigidbody2D rigidbody;
+    public Transform target;
 
     private float changeRandomDirectionCooldown = .5f;
     private float lastDirectionChange = -100;

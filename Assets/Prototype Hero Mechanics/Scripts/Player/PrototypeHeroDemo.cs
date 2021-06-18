@@ -12,6 +12,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
     private Shooting shootingScript;
     private Animator animator;
     private Vendetta vendettaScript;
+    private PickedItem pickedItemScript;
 
     private void Start()
     {
@@ -20,6 +21,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
         healthScript = GetComponent<HealthScript>();
         shootingScript = GetComponent<Shooting>();
         vendettaScript = GetComponent<Vendetta>();
+        pickedItemScript = GetComponent<PickedItem>();
     }
 
     private void Update()
@@ -32,6 +34,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
         SwitchShootingModeHandle();
         ShootingHandle();
         VendettaHandle();
+        UseItemHandle();
     }
 
     public void TakeDamage(float damage)
@@ -47,6 +50,16 @@ public class PrototypeHeroDemo : BaseBehaviour {
     public void BoostUp(float boostScript)
     {
         movementScript.BoostUp(boostScript);
+    }
+
+    public void TakeItem(Item item)
+    {
+        pickedItemScript.TakeItem(item);
+    }
+
+    public bool HasItem()
+    {
+        return pickedItemScript.HasItem();
     }
 
     private void ShootAnimationCheck()
@@ -108,6 +121,14 @@ public class PrototypeHeroDemo : BaseBehaviour {
         if (Input.GetButtonDown("Vendetta"))
         {
             vendettaScript.CastVendetta();
+        }
+    }
+
+    private void UseItemHandle()
+    {
+        if (Input.GetButtonDown("Use Item"))
+        {
+            pickedItemScript.UseItem();
         }
     }
 }

@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class Machine : Enemy
 {
-    public Sprite[] sprites;
-    public bool overloaded = false;
+    [SerializeField] float overloadTime = 8;
+    [SerializeField] Sprite[] sprites;
 
     protected SpriteRenderer spriteRenderer;
+    protected bool overloaded = false;
     protected bool destructed = false;
 
     protected override void Start()
@@ -20,6 +21,21 @@ public class Machine : Enemy
     {
         base.Update();
         OverloadedCheck();
+    }
+
+    public void OverloadMachine()
+    {
+        StartCoroutine(OverloadCoroutine());
+    }
+
+    private IEnumerator OverloadCoroutine()
+    {
+        overloaded = true;
+
+        yield return new WaitForSeconds(overloadTime);
+
+        if (!destructed)
+            overloaded = false;
     }
 
     virtual protected void OverloadedCheck()

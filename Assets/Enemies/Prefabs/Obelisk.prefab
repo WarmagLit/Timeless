@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 677514050245928272}
   - component: {fileID: 677514050245928273}
   - component: {fileID: 677514050245928275}
-  - component: {fileID: 8401085064996248678}
   - component: {fileID: 7452544116479569292}
+  - component: {fileID: 1545006991838400748}
   m_Layer: 3
   m_Name: Obelisk
   m_TagString: Obelisk
@@ -75,12 +75,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a880f3d16b8e20748970f4d1b02470db, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d55d81512e3a1e544b462b09e16f19f6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 3.125, y: 2.1875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -102,18 +102,6 @@ MonoBehaviour:
   selfDamageRateInPercent: 5
   maxHealth: 70
   healthBar: {fileID: 7374970004329216648}
---- !u!114 &8401085064996248678
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 677514050245928302}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5e3704303337a14fb621767d3952299, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &7452544116479569292
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -131,8 +119,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.5625, y: 1.5625}
-    newSize: {x: 1, y: 2}
+    oldSize: {x: 3.125, y: 2.1875}
+    newSize: {x: 3.125, y: 2.1875}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -140,6 +128,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.52467346, y: 1.0346904}
   m_EdgeRadius: 0
+--- !u!114 &1545006991838400748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 677514050245928302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b548e46acd469f41a656f1d350cade6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  overloadTime: 8
+  sprites:
+  - {fileID: 21300000, guid: d55d81512e3a1e544b462b09e16f19f6, type: 3}
+  - {fileID: 21300000, guid: 84c6c7dc4a2187f47b47117973f998f4, type: 3}
 --- !u!1001 &677514049088172553
 PrefabInstance:
   m_ObjectHideFlags: 0

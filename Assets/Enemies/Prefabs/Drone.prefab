@@ -15,8 +15,8 @@ GameObject:
   - component: {fileID: 515631846115936686}
   - component: {fileID: 515631846115936673}
   - component: {fileID: 6110724427952085684}
-  - component: {fileID: 4139906720394099307}
   - component: {fileID: 6587851105052731911}
+  - component: {fileID: 2667239008759878799}
   m_Layer: 3
   m_Name: Drone
   m_TagString: Enemy
@@ -153,18 +153,6 @@ MonoBehaviour:
   _globalClockKey: Enemies
   _rewindable: 1
   _recordingDuration: 30
---- !u!114 &4139906720394099307
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 515631846115936683}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5e3704303337a14fb621767d3952299, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &6587851105052731911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -180,6 +168,20 @@ MonoBehaviour:
   fireRate: 1.5
   firePoint: {fileID: 6050618861554911005}
   bulletPrefab: {fileID: 119629178929223582, guid: 3825c4917d6363d43881f91d1958af76,
+    type: 3}
+--- !u!114 &2667239008759878799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 515631846115936683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688495d909f99494983f6f58ec651dd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bombPrefab: {fileID: 1566370268237998137, guid: 34270847db01b87459d760bf679a42b9,
     type: 3}
 --- !u!1 &515631847310014748
 GameObject:

@@ -31,7 +31,7 @@ public class Sound
             int randomClip = Random.Range(0, m_clips.Length - 1);
             m_source.clip = m_clips[randomClip];
         }
-        m_source.volume = volume * Random.Range(m_randomVolumeRange.x, m_randomVolumeRange.y);
+        m_source.volume = PlayerPrefs.GetFloat("volume");
         m_source.pitch = pitch * Random.Range(m_randomPitchRange.x, m_randomPitchRange.y);
         m_source.Play();
     }
@@ -58,7 +58,7 @@ public class AudioManager_PrototypeHero : MonoBehaviour
 
     private void Start()
     {
-        for(int i = 0; i < m_sounds.Length; i++)
+        for (int i = 0; i < m_sounds.Length; i++)
         {
             GameObject go = new GameObject("Sound_" + i + "_" + m_sounds[i].m_name);
             go.transform.SetParent(transform);

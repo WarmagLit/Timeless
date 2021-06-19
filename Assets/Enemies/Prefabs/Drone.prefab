@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 6110724427952085684}
   - component: {fileID: 4139906720394099307}
   - component: {fileID: 6587851105052731911}
-  m_Layer: 3
+  m_Layer: 7
   m_Name: Drone
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -120,6 +120,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 400000
   nextWaypointDistance: 3
+  seeker: {fileID: 0}
+  rigidbody: {fileID: 0}
+  target: {fileID: 0}
 --- !u!114 &515631846115936673
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -191,7 +194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 515631847310014749}
   - component: {fileID: 515631847310014750}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: EnemyGFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -272,7 +275,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6050618861554911005}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -304,7 +307,7 @@ GameObject:
   - component: {fileID: 6617723635506371760}
   - component: {fileID: 6617723635506371762}
   - component: {fileID: 6617723635506371763}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,7 +383,7 @@ GameObject:
   - component: {fileID: 6617723635601216099}
   - component: {fileID: 6617723635601216096}
   - component: {fileID: 6617723635601216097}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -521,7 +524,7 @@ GameObject:
   - component: {fileID: 6617723636027810913}
   - component: {fileID: 6617723636027810918}
   - component: {fileID: 6617723636027810919}
-  m_Layer: 5
+  m_Layer: 7
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}

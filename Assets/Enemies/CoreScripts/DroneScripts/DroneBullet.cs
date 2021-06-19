@@ -30,6 +30,11 @@ public class DroneBullet : MonoBehaviour
                 hero.TakeDamage(damage);
             }
         }
+
+        if (hitInfo.gameObject.layer == 3 || hitInfo.gameObject.layer == 8) {
+            Destroy(gameObject);
+        }
+
     }
 
     private void AimedShot()

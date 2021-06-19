@@ -39,6 +39,9 @@ public class EnemyScript : MonoBehaviour
 
     public AIPath aIPath;
 
+    public Transform MyPosition;
+    public Transform Target;
+
     private void Start()
     {
         animator = GetComponent<Animator>();
@@ -49,7 +52,7 @@ public class EnemyScript : MonoBehaviour
 
     private void Update()
     {
-        animator.SetFloat("AirSpeedY", body2d.velocity.y);
+        //animator.SetFloat("AirSpeedY", body2d.velocity.y);
 
         GroundedCheck();
         CheckDash();
@@ -60,12 +63,15 @@ public class EnemyScript : MonoBehaviour
             transform.localScale = new Vector3(-6.360002f, 6.360002f, 1f);
         }
 
-
-        //Debug.Log(body2d.velocity.x);
-        if (body2d.velocity.x > 0.01f) {
-            
-            animator.SetBool("isRunning", true);
+        if (Target.transform.position.x > MyPosition.transform.position.x) {
+            transform.localScale = new Vector3(1f, 1f, 1f);
+        } else if (Target.transform.position.x < MyPosition.transform.position.x) {
+            transform.localScale = new Vector3(-1f, 1f, 1f);
         }
+
+
+
+
     }
 
     /*

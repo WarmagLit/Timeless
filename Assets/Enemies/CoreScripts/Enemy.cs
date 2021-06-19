@@ -6,6 +6,8 @@ public class Enemy : MonoBehaviour
 {
     protected HealthScript healthScript;
 
+    private bool alive = true;
+
     virtual protected void Start()
     {
         healthScript = GetComponent<HealthScript>();
@@ -28,9 +30,10 @@ public class Enemy : MonoBehaviour
 
     public void CheckAlive()
     {
-        if (!healthScript.Alive())
+        if (!healthScript.Alive() && alive)
         {
             Die();
+            alive = false;
         }
     }
 

@@ -45,5 +45,6 @@ public class AimMachine : Machine
     protected override void Die()
     {
         base.Die();
+        FindObjectOfType<FirstPhase>().AddDestructedMachine(this);
     }
 }

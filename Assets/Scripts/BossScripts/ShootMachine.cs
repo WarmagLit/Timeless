@@ -46,5 +46,6 @@ public class ShootMachine : Machine
     protected override void Die()
     {
         base.Die();
+        FindObjectOfType<FirstPhase>().AddDestructedMachine(this);
     }
 }

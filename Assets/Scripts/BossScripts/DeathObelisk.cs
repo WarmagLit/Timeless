@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class DeathObelisk : Machine
 {
-    [SerializeField] float castTime = 10;
+    [SerializeField] float castTime = 9.5f;
+
+    public DurationImage deathTimer;
 
     private WhiteBangUI whiteBang;
     private PrototypeHeroDemo hero;
     private float bangDuration;
+    private float currentCastTime;
 
     protected override void Start()
     {
@@ -16,12 +19,23 @@ public class DeathObelisk : Machine
         whiteBang = FindObjectOfType<WhiteBangUI>(); 
         hero = FindObjectOfType<PrototypeHeroDemo>();
         bangDuration = whiteBang.bangDuration;
+        currentCastTime = 0;
         StartCoroutine(CastKillWave());
     }
 
     protected override void Update()
     {
         base.Update();
+        currentCastTime += Time.deltaTime;
+
+        if (currentCastTime < castTime)
+        {
+            deathTimer.SetCurrentDuration(currentCastTime / castTime);
+        }
+        else
+        {
+            deathTimer.HideIcon();
+        }
     }
 
     private IEnumerator CastKillWave()
@@ -30,7 +44,7 @@ public class DeathObelisk : Machine
 
         StartCoroutine(whiteBang.Bang());
 
-        yield return new WaitForSeconds(bangDuration * 15f);
+        yield return new WaitForSeconds(bangDuration);
 
         hero.TakeDamage(float.MaxValue);
     }

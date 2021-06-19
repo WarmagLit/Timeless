@@ -37,7 +37,7 @@ public class EnemyAI : MonoBehaviour
     {
         if (path == null) return;
 
-        reachedEndOfPath = currentWaypoint >= path.vectorPath.Count - 4;
+        reachedEndOfPath = currentWaypoint >= path.vectorPath.Count - 3;
         if (reachedEndOfPath)
         {
             RandomFly();

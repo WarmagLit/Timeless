@@ -8,7 +8,7 @@ public class PickedItem : MonoBehaviour
 
     private Item currentItem;
     private float maxDuration = 7;
-    public float currentDuration;
+    private float currentDuration;
     private bool picked = false;
 
     void Update()

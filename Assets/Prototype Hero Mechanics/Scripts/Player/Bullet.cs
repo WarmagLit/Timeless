@@ -9,7 +9,7 @@ public class Bullet : MonoBehaviour
 
     private Vector2 mousePosition;
     private Rigidbody2D rigidbody;
-    private int collisionLayer = 3;
+    private int[] collisionLayers = {3, 7};
 
     void Start()
     {
@@ -20,15 +20,15 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        if (hitInfo.gameObject.layer == collisionLayer)
+        if (hitInfo.gameObject.layer == collisionLayers[0] || hitInfo.gameObject.layer == collisionLayers[1])
         {
-            Destroy(gameObject);
-
             Enemy enemy = hitInfo.transform.GetComponent<Enemy>();
             if (enemy != null)
             {
                 enemy.TakeDamage(damage);
             }
+
+            Destroy(gameObject);
         }
     }
 }

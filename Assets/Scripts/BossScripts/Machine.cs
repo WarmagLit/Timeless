@@ -9,7 +9,7 @@ public class Machine : Enemy
 
     protected SpriteRenderer spriteRenderer;
     protected bool overloaded = false;
-    protected bool destructed = false;
+    public bool destructed {get; protected set;}
 
     protected override void Start()
     {
@@ -21,6 +21,11 @@ public class Machine : Enemy
     {
         base.Update();
         OverloadedCheck();
+    }
+
+    public void DisableMachine()
+    {
+        enabled = false;
     }
 
     public void OverloadMachine()

@@ -8,6 +8,7 @@ public class Pendulum : MonoBehaviour
 	public float leftPushRange;
 	public float rightPushRange;
 	public float velocityThreshold;
+	public PrototypeHeroDemo mainHero;
 	#endregion //Public variables
 
 	//Unity Named Methods
@@ -44,6 +45,13 @@ public class Pendulum : MonoBehaviour
 	}
 	#endregion
 
-
+	private void OnTriggerEnter2D(Collider2D other)
+	{
+		//Debug.Log(other.gameObject);
+		if (other.gameObject.tag == "Player")
+		{
+			mainHero.TakeDamage(float.MaxValue);
+		}
+	}
 
 }

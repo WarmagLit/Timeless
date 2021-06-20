@@ -6,18 +6,23 @@ public class RunVideo : MonoBehaviour
 {
 	public PlayScript playscript1;
 
+	[SerializeField] GameObject dialogueCanvas;
 
 	private void Update()
 	{
 		ShootingHandle();
 	}
 
-	private void OnTriggerEnter2D(Collider2D other)
+	private IEnumerator OnTriggerEnter2D(Collider2D other)
 	{
 		//Debug.Log(other.gameObject);
 		if (other.gameObject.tag == "Player")
 		{
 			playscript1.Run();
+
+			yield return new WaitForSeconds(5);
+
+			dialogueCanvas.SetActive(true);
 		}
 	}
 

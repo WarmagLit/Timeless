@@ -10,7 +10,7 @@ public class DurationImage : MonoBehaviour
 
     void Start()
     {
-        durationImage.fillAmount = 1;
+        durationImage.fillAmount = 0;
     }
 
     public void SetCurrentDuration(float duration)

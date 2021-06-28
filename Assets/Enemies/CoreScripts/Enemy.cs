@@ -9,7 +9,6 @@ public class Enemy : MonoBehaviour
     private bool alive = true;
 
     public Animator animator;
-    public Rigidbody2D bossrd;
     virtual protected void Start()
     {
         healthScript = GetComponent<HealthScript>();
@@ -42,7 +41,8 @@ public class Enemy : MonoBehaviour
     virtual protected void Die()
     {
         animator.SetBool("isDead", true);
-        bossrd.mass = 100;
+        Debug.Log("it iss ded");
         //Destroy(gameObject);
     }
+
 }

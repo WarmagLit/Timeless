@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -33,7 +34,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
         MoveInputHandle();
         MoveAbilitiesHandle();
         SwitchShootingModeHandle();
-        ShootingHandle();
+        StartCoroutine(ShootingHandle());
         VendettaHandle();
         UseItemHandle();
     }
@@ -111,11 +112,16 @@ public class PrototypeHeroDemo : BaseBehaviour {
         }
     }
 
-    private void ShootingHandle()
+    private IEnumerator ShootingHandle()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") && !shooting)
         {
+            shooting = true;
             shootingScript.Shoot();
+
+            yield return new WaitForSeconds(0.3f);
+
+            shooting = false;
         }
     }
 

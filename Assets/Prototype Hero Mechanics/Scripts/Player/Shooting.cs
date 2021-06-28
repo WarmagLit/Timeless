@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 enum ShootingMode
 {
@@ -10,7 +11,12 @@ enum ShootingMode
 public class Shooting : MonoBehaviour
 {
     [SerializeField] float damage = 20;
-    [SerializeField] float laserCooldown = 1;
+    [SerializeField] float bulletCooldown = 0.3f;
+    [SerializeField] float laserCooldown = 1.5f;
+
+    [SerializeField] DurationImage modeUI;
+    [SerializeField] Sprite laserSprite;
+    [SerializeField] Sprite bulletSprite;
 
     public Transform firePoint;
     public LineRenderer lineRenderer;
@@ -19,11 +25,38 @@ public class Shooting : MonoBehaviour
     public GameObject bulletPrefab;
 
     private ShootingMode mode = ShootingMode.Bullet;
+    private float lastBullet = -100;
     private float lastLaser = -100;
+
+    private float maxCooldown = 3;
+    private float currentCooldown;
+    private bool onCooldown = false;
+
+    private void Update()
+    {
+        if (onCooldown)
+        {
+            currentCooldown -= Time.deltaTime;
+
+            if (currentCooldown > 0)
+            {
+                modeUI.SetCurrentDuration(currentCooldown / maxCooldown);
+            }
+            else
+            {
+                onCooldown = false;
+                modeUI.SetCurrentDuration(0);
+            }
+        }
+    }
 
     public void SwitchMode()
     {
-        mode = mode == ShootingMode.Bullet ? ShootingMode.Laser : ShootingMode.Bullet;
+        if (!onCooldown)
+        {
+            mode = mode == ShootingMode.Bullet ? ShootingMode.Laser : ShootingMode.Bullet;
+            SwitchModeUI();
+        }
     }
 
     public void Shoot()
@@ -34,20 +67,41 @@ public class Shooting : MonoBehaviour
         }
         else
         {
-            if (Time.time >= (lastLaser + laserCooldown))
-            {
-                StartCoroutine(ShootLaser());
-                lastLaser = Time.time;
-            }
+            StartCoroutine(ShootLaser());
         }
+    }
+
+    private void SwitchModeUI()
+    {
+        modeUI.GetComponent<Image>().sprite = mode == ShootingMode.Bullet ? bulletSprite : laserSprite;
+        currentCooldown = maxCooldown;
+        onCooldown = true;
     }
 
     private void ShootBullet()
     {
-        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        if (Time.time >= (lastBullet + bulletCooldown))
+        {
+            Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+            lastBullet = Time.time;
+        } 
     }
 
     private IEnumerator ShootLaser()
+    {
+        if (Time.time >= (lastLaser + laserCooldown))
+        {
+            InitializeLaserLine();
+
+            lineRenderer.enabled = true;
+            yield return new WaitForSeconds(0.1f);
+            lineRenderer.enabled = false;
+
+            lastLaser = Time.time;
+        } 
+    }
+
+    private void InitializeLaserLine()
     {
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector3 direction = (mousePosition - firePoint.position).normalized;
@@ -67,12 +121,6 @@ public class Shooting : MonoBehaviour
         {
             SetShootLine(firePoint.position, firePoint.position + direction * 60);
         }
-
-        lineRenderer.enabled = true;
-
-        yield return new WaitForSeconds(.1f);
-
-        lineRenderer.enabled = false;
     }
 
     private void SetShootLine(Vector3 position1, Vector3 position2)

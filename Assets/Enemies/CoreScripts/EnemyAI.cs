@@ -5,8 +5,9 @@ using Pathfinding;
 
 public class EnemyAI : MonoBehaviour
 {
-    [SerializeField] float speed = 200f;
-    [SerializeField] float nextWaypointDistance = 3f;
+    [SerializeField] float speed = 200;
+    [SerializeField] float nextWaypointDistance = 3;
+    [SerializeField] protected float startFollowDistance = 150;
 
     public Path path;
     private int currentWaypoint = 0;
@@ -14,10 +15,10 @@ public class EnemyAI : MonoBehaviour
 
     public Seeker seeker;
     public Rigidbody2D rigidbody;
-    public Transform target;
 
     private float changeRandomDirectionCooldown = .5f;
     private float lastDirectionChange = -100;
+    private Transform target;
 
     void Start()
     {
@@ -30,13 +31,14 @@ public class EnemyAI : MonoBehaviour
 
     void FixedUpdate()
     {
-        Fly();
+        if (path != null && path.GetTotalLength() <= startFollowDistance)
+        {
+            Fly();
+        }
     }
 
     private void Fly()
     {
-        if (path == null) return;
-
         reachedEndOfPath = currentWaypoint >= path.vectorPath.Count;
         if (reachedEndOfPath) return;
         reachedEndOfPath = currentWaypoint >= path.vectorPath.Count - 4;

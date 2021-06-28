@@ -8,7 +8,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
     [SerializeField] bool  shooting = true;
     [SerializeField] GameObject deathMenuUI;
 
-    private PlayerHeroMovement movementScript;
+    public PlayerHeroMovement movementScript;
     private HealthScript healthScript;
     private Shooting shootingScript;
     private Animator animator;

@@ -10,7 +10,7 @@ public class OverloadBomb : Item
         Transform hero = GameObject.FindGameObjectWithTag("Player").transform;
         Machine nearestMachine = FindNearestMachine(hero);
 
-        if (Vector2.Distance(hero.position, nearestMachine.transform.position) <= 6)
+        if (Vector2.Distance(hero.position, nearestMachine.transform.position) <= 6.5)
         {
             nearestMachine.OverloadMachine();
         }

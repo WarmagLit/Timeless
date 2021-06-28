@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ShootMachine : Machine
 {
-    [SerializeField] int stepAngle = 15;
+    [SerializeField] float stepAngle = 15;
     [SerializeField] int startAngle = -150;
     [SerializeField] float bulletSpeed = 5f;
     [SerializeField] float shootCooldown = 15;
@@ -19,7 +19,7 @@ public class ShootMachine : Machine
     protected override void Update()
     {
         base.Update();
-        if (destructed && Time.time >= (lastShootSeries + shootCooldown))
+        if (canShoot && Time.time >= (lastShootSeries + shootCooldown))
         {
             ShootSeries();
         }

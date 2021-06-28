@@ -6,10 +6,10 @@ public class DroneBullet : MonoBehaviour
 {
     [SerializeField] float damage = 5;
     [SerializeField] float speed = 20f;
+    [SerializeField] int[] collisionLayers = { 6, 3, 8};
 
     private Transform target;
     private Rigidbody2D rigidbody;
-    private int collisionLayer = 6;
 
     void Start()
     {
@@ -20,21 +20,21 @@ public class DroneBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        if (hitInfo.gameObject.layer == collisionLayer)
+        foreach (int layer in collisionLayers)
         {
-            Destroy(gameObject);
-
-            PrototypeHeroDemo hero = hitInfo.transform.GetComponent<PrototypeHeroDemo>();
-            if (hero != null)
+            if (hitInfo.gameObject.layer == layer)
             {
-                hero.TakeDamage(damage);
+                Destroy(gameObject);
+
+                PrototypeHeroDemo hero = hitInfo.transform.GetComponent<PrototypeHeroDemo>();
+                if (hero != null)
+                {
+                    hero.TakeDamage(damage);
+                }
+
+                break;
             }
         }
-
-        if (hitInfo.gameObject.layer == 3 || hitInfo.gameObject.layer == 8) {
-            Destroy(gameObject);
-        }
-
     }
 
     private void AimedShot()

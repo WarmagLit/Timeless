@@ -74,12 +74,15 @@ public class PrototypeHeroDemo : BaseBehaviour {
     {
         if (!healthScript.Alive())
         {
-            Die();
+            StartCoroutine(Die());
         }
     }
 
-    private void Die()
+    private IEnumerator Die()
     {
+        animator.SetTrigger("Death");
+        yield return new WaitForSeconds(1);
+
         deathMenuUI.SetActive(true);
         Time.timeScale = 0f;
         FindObjectOfType<PauseMenu>().died = true;

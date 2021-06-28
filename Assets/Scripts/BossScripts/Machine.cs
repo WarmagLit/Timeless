@@ -6,7 +6,7 @@ public class Machine : Enemy
 {
     [SerializeField] float overloadTime = 8;
     [SerializeField] Sprite[] sprites;
-    [SerializeField] protected bool canShoot = false;
+    [SerializeField] public bool canShoot = false;
     [SerializeField] protected Transform healZone;
 
     protected SpriteRenderer spriteRenderer;

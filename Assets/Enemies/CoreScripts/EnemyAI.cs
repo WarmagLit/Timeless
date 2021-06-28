@@ -30,22 +30,10 @@ public class EnemyAI : MonoBehaviour
 
     void FixedUpdate()
     {
-        Fly();
+        //nothing
     }
 
-    private void Fly()
-    {
-        if (path == null) return;
-
-        reachedEndOfPath = currentWaypoint >= path.vectorPath.Count - 3;
-        if (reachedEndOfPath)
-        {
-            RandomFly();
-            return;
-        }
-
-        PathFly();
-    }
+   
 
     private void RandomFly()
     {

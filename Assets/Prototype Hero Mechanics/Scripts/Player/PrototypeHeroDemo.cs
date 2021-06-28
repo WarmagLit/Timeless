@@ -6,10 +6,10 @@ using UnityEngine.SceneManagement;
 public class PrototypeHeroDemo : BaseBehaviour {
 
     [Header("Variables")]
-    [SerializeField] bool  shooting = true;
+    [SerializeField] bool  shooting = false;
     [SerializeField] GameObject deathMenuUI;
 
-    private PlayerHeroMovement movementScript;
+    public PlayerHeroMovement movementScript;
     private HealthScript healthScript;
     private Shooting shootingScript;
     private Animator animator;
@@ -118,7 +118,7 @@ public class PrototypeHeroDemo : BaseBehaviour {
         {
             shooting = true;
             shootingScript.Shoot();
-
+            Debug.Log("Shoot!");
             yield return new WaitForSeconds(0.3f);
 
             shooting = false;

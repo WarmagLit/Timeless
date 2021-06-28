@@ -8,8 +8,8 @@ public class DialogueManager : MonoBehaviour
 
 	public Text nameText;
 	public Text dialogueText;
-
 	public Animator animator;
+	public PrototypeHeroDemo heroScript;
 
 	private Queue<string> sentences;
 
@@ -25,6 +25,8 @@ public class DialogueManager : MonoBehaviour
 
 		nameText.text = dialogue.name;
 
+		heroScript.enabled = false;
+
 		sentences.Clear();
 
 		foreach (string sentence in dialogue.sentences)
@@ -37,6 +39,7 @@ public class DialogueManager : MonoBehaviour
 
 	public void DisplayNextSentence()
 	{
+		Debug.Log(sentences.Count);
 		if (sentences.Count == 0)
 		{
 			EndDialogue();
@@ -61,6 +64,7 @@ public class DialogueManager : MonoBehaviour
 
 	void EndDialogue()
 	{
+		heroScript.enabled = true;
 		animator.SetBool("IsOpen", false);
 	}
 }

@@ -8,6 +8,7 @@ public class Enemy : MonoBehaviour
 
     private bool alive = true;
 
+    public Animator animator;
     virtual protected void Start()
     {
         healthScript = GetComponent<HealthScript>();
@@ -39,6 +40,9 @@ public class Enemy : MonoBehaviour
 
     virtual protected void Die()
     {
-        Destroy(gameObject);
+        animator.SetBool("isDead", true);
+        Debug.Log("it iss ded");
+        //Destroy(gameObject);
     }
+
 }

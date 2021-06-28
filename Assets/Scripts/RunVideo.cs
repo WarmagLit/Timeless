@@ -5,8 +5,14 @@ using UnityEngine;
 public class RunVideo : MonoBehaviour
 {
 	public PlayScript playscript1;
+	public Animator camAnim;
+	public PrototypeHeroDemo heroScript;
+	public DialogueTrigger dialtrig;
+
+	public NextScene1 door;
 
 	[SerializeField] GameObject dialogueCanvas;
+	private bool firstTime = true;
 
 	private void Update()
 	{
@@ -16,13 +22,26 @@ public class RunVideo : MonoBehaviour
 	private IEnumerator OnTriggerEnter2D(Collider2D other)
 	{
 		//Debug.Log(other.gameObject);
-		if (other.gameObject.tag == "Player")
+		if (other.gameObject.tag == "Player" && firstTime)
 		{
+			firstTime = false;
 			playscript1.Run();
+
+			camAnim.SetBool("Cutscene1", true);
+			heroScript.enabled = false;
+			heroScript.movementScript.MoveHero(0);
+			
+			yield return new WaitForSeconds(25);
+
+			dialogueCanvas.SetActive(true);
+			dialtrig.TriggerDialogue();
 
 			yield return new WaitForSeconds(5);
 
-			dialogueCanvas.SetActive(true);
+			heroScript.enabled = true;
+
+			StopCutscene();
+			door.isEnabled = true;
 		}
 	}
 
@@ -34,4 +53,7 @@ public class RunVideo : MonoBehaviour
 		}
 	}
 
+	void StopCutscene() {
+		camAnim.SetBool("Cutscene1", false);
+	}
 }

@@ -9,6 +9,8 @@ public class Bullet : MonoBehaviour
 
     private Vector2 mousePosition;
     private Rigidbody2D rigidbody;
+
+    public Animator animator;
     private int[] collisionLayers = {3, 7};
 
     void Start()
@@ -18,17 +20,25 @@ public class Bullet : MonoBehaviour
         rigidbody.velocity = (mousePosition - (Vector2)transform.position).normalized * speed;
     }
 
-    private void OnTriggerEnter2D(Collider2D hitInfo)
+    private IEnumerator OnTriggerEnter2D(Collider2D hitInfo)
     {
         if (hitInfo.gameObject.layer == collisionLayers[0] || hitInfo.gameObject.layer == collisionLayers[1])
         {
+            yield return new WaitForSeconds(0.01f);
+            rigidbody.velocity = new Vector2(0, 0);
             Enemy enemy = hitInfo.transform.GetComponent<Enemy>();
             if (enemy != null)
             {
                 enemy.TakeDamage(damage);
+                
             }
-
+            animator.SetTrigger("Crush");
+            yield return new WaitForSeconds(0.11f);
             Destroy(gameObject);
         }
+    }
+
+    public void Deactivation() {
+        Destroy(gameObject);
     }
 }

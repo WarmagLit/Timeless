@@ -42,9 +42,9 @@ public class DeathObelisk : Machine
     {
         yield return new WaitForSeconds(castTime);
 
-        StartCoroutine(whiteBang.Bang());
+        whiteBang.Bang();
 
-        yield return new WaitForSeconds(bangDuration);
+        yield return new WaitForSeconds(bangDuration / 3);
 
         hero.TakeDamage(float.MaxValue);
     }

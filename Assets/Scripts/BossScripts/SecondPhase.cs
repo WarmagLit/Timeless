@@ -11,6 +11,7 @@ public class SecondPhase : MonoBehaviour
     {
         if (mainMachine.destructed)
         {
+            mainMachine.canShoot = false;
             endPortals.gameObject.SetActive(true);
         }
     }

@@ -28,7 +28,6 @@ public class FirstPhase : MonoBehaviour
     public void AddDestructedMachine(Machine machine)
     {
         shootMachines.Add(machine);
-        Debug.Log(shootMachines.Count);
     }
 
     private void PhaseCheck()

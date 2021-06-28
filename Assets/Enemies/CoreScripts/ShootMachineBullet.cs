@@ -5,21 +5,25 @@ using UnityEngine;
 public class ShootMachineBullet : MonoBehaviour
 {
     [SerializeField] float damage = 5;
+    [SerializeField] int[] collisionLayers = { 6 };
 
     public int index = 0;
 
-    private int collisionLayer = 6;
-
     private void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        if (hitInfo.gameObject.layer == collisionLayer)
+        foreach (int layer in collisionLayers)
         {
-            Destroy(gameObject);
-
-            PrototypeHeroDemo hero = hitInfo.transform.GetComponent<PrototypeHeroDemo>();
-            if (hero != null)
+            if (hitInfo.gameObject.layer == layer)
             {
-                hero.TakeDamage(damage);
+                Destroy(gameObject);
+
+                PrototypeHeroDemo hero = hitInfo.transform.GetComponent<PrototypeHeroDemo>();
+                if (hero != null)
+                {
+                    hero.TakeDamage(damage);
+                }
+
+                break;
             }
         }
     }

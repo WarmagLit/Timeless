@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1566370268237998138}
   - component: {fileID: 5694346319432111148}
   - component: {fileID: 995202799513937573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: OverloadBomb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,7 +110,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.6428895, y: 1.6869931}
+  m_Size: {x: 2.11, y: 2.04}
   m_EdgeRadius: 0
 --- !u!114 &1566370268237998138
 MonoBehaviour:

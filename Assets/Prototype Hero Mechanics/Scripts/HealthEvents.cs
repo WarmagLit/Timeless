@@ -4,13 +4,20 @@ using UnityEngine;
 
 public class HealthEvents : MonoBehaviour
 {
-    public void DamageEvent(PrototypeHeroDemo player)
+    private PrototypeHeroDemo player;
+
+    private void Start()
     {
-        player.TakeDamage(0.1f);
+        player = FindObjectOfType<PrototypeHeroDemo>();
     }
 
-    public void HealEvent(PrototypeHeroDemo player)
+    public void DamageEvent(float damagePerFrame)
     {
-        player.Heal(0.1f);
+        player.TakeDamage(damagePerFrame);
+    }
+
+    public void HealEvent(float healPerFrame)
+    {
+        player.Heal(healPerFrame);
     }
 }

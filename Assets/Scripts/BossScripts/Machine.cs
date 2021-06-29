@@ -8,6 +8,7 @@ public class Machine : Enemy
     [SerializeField] Sprite[] sprites;
     [SerializeField] public bool canShoot = false;
     [SerializeField] protected Transform healZone;
+    [SerializeField] protected GameObject lightZone;
 
     protected SpriteRenderer spriteRenderer;
     protected bool overloaded = false;
@@ -53,11 +54,13 @@ public class Machine : Enemy
     {
         if (!overloaded)
         {
+            lightZone.SetActive(true);
             spriteRenderer.sprite = sprites[0];
             healthScript.SelfRegenerate();
         }
         else
         {
+            lightZone.SetActive(false);
             spriteRenderer.sprite = sprites[1];
             healthScript.SelfDamage();
         }

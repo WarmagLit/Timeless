@@ -138,7 +138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   regenerateRateInPercent: 30
   selfDamageRateInPercent: 5
-  maxHealth: 100
+  maxHealth: 65
   healthBar: {fileID: 6617723635601216097}
 --- !u!114 &6587851105052731911
 MonoBehaviour:

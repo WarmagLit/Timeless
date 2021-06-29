@@ -11,7 +11,6 @@ public class CloseGate : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
 	{
-		//Debug.Log(other.gameObject);
 		if (other.gameObject.tag == "Player" && firstTime)
 		{
 			firstTime = false;

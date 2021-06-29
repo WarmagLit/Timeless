@@ -33,6 +33,7 @@ Transform:
   m_Children:
   - {fileID: 7374970004772965513}
   - {fileID: 8061462189078383150}
+  - {fileID: 1198731974057677037}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -100,8 +101,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   regenerateRateInPercent: 70
-  selfDamageRateInPercent: 5
-  maxHealth: 240
+  selfDamageRateInPercent: 6
+  maxHealth: 130
   healthBar: {fileID: 7374970004329216648}
 --- !u!61 &7452544116479569292
 BoxCollider2D:
@@ -148,8 +149,101 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 84c6c7dc4a2187f47b47117973f998f4, type: 3}
   canShoot: 0
   healZone: {fileID: 0}
-  castTime: 20
+  lightZone: {fileID: 1990874361060303951}
+  castTime: 15
   deathTimer: {fileID: 7975707220379510448}
+--- !u!1 &1990874361060303951
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1198731974057677037}
+  - component: {fileID: 406326588384284614}
+  m_Layer: 3
+  m_Name: Point Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1198731974057677037
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990874361060303951}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.09, y: -1.67, z: 0}
+  m_LocalScale: {x: 1.3333334, y: 1.3333334, z: 1}
+  m_Children: []
+  m_Father: {fileID: 677514050245928272}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &406326588384284614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990874361060303951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LightType: 1
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.496
+  m_Color: {r: 1, g: 0.62352943, b: 1, a: 1}
+  m_Intensity: 0.83
+  m_LightVolumeOpacity: 0.048
+  m_ApplyToSortingLayers: 00000000
+  m_LightCookieSprite: {fileID: 0}
+  m_UseNormalMap: 0
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_ShadowIntensity: 0.404
+  m_ShadowVolumeIntensity: 0
+  m_PointLightInnerAngle: 180
+  m_PointLightOuterAngle: 195
+  m_PointLightInnerRadius: 0
+  m_PointLightOuterRadius: 5.49
+  m_PointLightDistance: 3
+  m_PointLightQuality: 1
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 0.5
+  m_ShapeLightFalloffOffset: {x: 0, y: 0}
+  m_ShapePath:
+  - {x: -0.7428639, y: 0.6765442, z: 0}
+  - {x: -0.67584205, y: 0.8763852, z: 0}
+  - {x: -0.5728862, y: 1.022209, z: 0}
+  - {x: -0.40375257, y: 1.1620438, z: 0}
+  - {x: -0.21362019, y: 1.2549286, z: 0}
+  - {x: 0.041900635, y: 1.2540715, z: 0}
+  - {x: 0.1948359, y: 1.1834366, z: 0}
+  - {x: 0.36038184, y: 1.0601999, z: 0}
+  - {x: 0.46682906, y: 0.89028835, z: 0}
+  - {x: 0.5659125, y: 0.73618555, z: 0}
+  - {x: 0.56590486, y: 0.4292438, z: 0}
+  - {x: 0.61985373, y: 0.4299574, z: 0}
+  - {x: 0.6241214, y: 0.75608087, z: 0}
+  - {x: 0.5459602, y: 0.88887465, z: 0}
+  - {x: 0.4464252, y: 1.0706842, z: 0}
+  - {x: 0.26264977, y: 1.2258837, z: 0}
+  - {x: 0.06242609, y: 1.3301852, z: 0}
+  - {x: -0.23058438, y: 1.3224562, z: 0}
+  - {x: -0.4563849, y: 1.2143439, z: 0}
+  - {x: -0.6625693, y: 1.039542, z: 0}
+  - {x: -0.7645519, y: 0.8904866, z: 0}
+  - {x: -0.8266947, y: 0.7175455, z: 0}
+  - {x: -0.8295829, y: 0.4263804, z: 0}
+  - {x: -0.7379954, y: 0.43179512, z: 0}
 --- !u!1 &2482095399269210364
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,7 +355,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.86125004, y: 0.021247944}
   m_AnchorMax: {x: 0.9862501, y: 0.21400002}
-  m_AnchoredPosition: {x: -0.1000061, y: 0}
+  m_AnchoredPosition: {x: -0.099975586, y: 0}
   m_SizeDelta: {x: 150, y: 149}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6284191882699845511

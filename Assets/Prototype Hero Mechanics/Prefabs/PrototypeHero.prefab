@@ -869,9 +869,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 251177d27489f604b9f4915ad3e46af2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 50
-  bulletCooldown: 0.3
-  laserCooldown: 1.5
+  damage: 10
+  bulletCooldown: 0.1
+  laserCooldown: 1
   modeUI: {fileID: 5357604412815447660}
   laserSprite: {fileID: 21300000, guid: 397b5e395bfced3429da0b6270823767, type: 3}
   bulletSprite: {fileID: 21300000, guid: 86563c223dc3f924692c925b601f0a46, type: 3}

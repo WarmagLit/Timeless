@@ -27,10 +27,10 @@ public class Bullet : MonoBehaviour
             yield return new WaitForSeconds(0.01f);
             rigidbody.velocity = new Vector2(0, 0);
             Enemy enemy = hitInfo.transform.GetComponent<Enemy>();
-            if (enemy != null)
+            Machine machine = hitInfo.transform.GetComponent<Machine>();
+            if (enemy != null && machine == null)
             {
-                enemy.TakeDamage(damage);
-                
+                enemy.TakeDamage(damage);    
             }
             animator.SetTrigger("Crush");
             yield return new WaitForSeconds(0.11f);

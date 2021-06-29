@@ -18,6 +18,10 @@ public class EventTrigger : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        onTrigger.Invoke();
+        PrototypeHeroDemo hero = collision.transform.GetComponent<PrototypeHeroDemo>();
+        if (hero != null)
+        {
+            onTrigger.Invoke();
+        }
     }
 }

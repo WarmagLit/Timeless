@@ -7,6 +7,7 @@ public class PauseMenu : MonoBehaviour
 {
     public static bool GameIsPaused = false;
     [SerializeField] GameObject pauseMenuUI;
+    [SerializeField] GameObject keyBindingsCanvas;
     public bool died = false;
 
     void Start()
@@ -30,6 +31,7 @@ public class PauseMenu : MonoBehaviour
     }
     public void Continue()
     {
+        keyBindingsCanvas.SetActive(false);
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         GameIsPaused = false;
@@ -52,5 +54,11 @@ public class PauseMenu : MonoBehaviour
     {
         died = false;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void ShowKeybindings()
+    {
+        keyBindingsCanvas.SetActive(true);
+        pauseMenuUI.SetActive(false);
     }
 }

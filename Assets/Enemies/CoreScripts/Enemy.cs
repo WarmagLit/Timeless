@@ -41,8 +41,6 @@ public class Enemy : MonoBehaviour
     virtual protected void Die()
     {
         animator.SetBool("isDead", true);
-        Debug.Log("it iss ded");
-        //Destroy(gameObject);
     }
 
 }

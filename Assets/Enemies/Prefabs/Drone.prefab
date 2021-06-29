@@ -121,9 +121,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 400000
   nextWaypointDistance: 3
+  startFollowDistance: 250
   seeker: {fileID: 515631846115936687}
   rigidbody: {fileID: 515631846115936685}
-  target: {fileID: 0}
 --- !u!114 &515631846115936673
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,6 +171,7 @@ MonoBehaviour:
   animator: {fileID: 6305609256915438864}
   bombPrefab: {fileID: 1566370268237998137, guid: 34270847db01b87459d760bf679a42b9,
     type: 3}
+  bomb: 1
 --- !u!95 &6305609256915438864
 Animator:
   serializedVersion: 3
@@ -482,10 +483,10 @@ RectTransform:
   m_Father: {fileID: 6617723636027810912}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 387.17603, y: 14.425598}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -0.010421753, y: -0.00623703}
+  m_SizeDelta: {x: 133.6849, y: -34.69091}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6617723635601216099
 CanvasRenderer:

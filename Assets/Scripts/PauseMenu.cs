@@ -37,9 +37,10 @@ public class PauseMenu : MonoBehaviour
         GameIsPaused = false;
     }
 
-    void Pause()
+    public void Pause()
     {
         pauseMenuUI.SetActive(true);
+        keyBindingsCanvas.SetActive(false);
         Time.timeScale = 0f;
         GameIsPaused = true;
     }

@@ -121,7 +121,6 @@ public class PrototypeHeroDemo : BaseBehaviour {
         {
             shooting = true;
             shootingScript.Shoot();
-            Debug.Log("Shoot!");
             yield return new WaitForSeconds(0.3f);
 
             shooting = false;

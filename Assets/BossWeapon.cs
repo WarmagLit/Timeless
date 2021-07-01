@@ -25,9 +25,7 @@ public class BossWeapon : MonoBehaviour
 		if (colInfo != null && colInfo.GetComponent<HealthScript>() != null)
 		{
 			colInfo.GetComponent<HealthScript>().TakeDamage(attackDamage);
-            hs2.TakeDamage(attackDamage);
-            Debug.Log("Damaged");
-            
+            hs2.TakeDamage(attackDamage);       
 		}
 	}
 

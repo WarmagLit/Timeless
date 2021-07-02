@@ -44,7 +44,7 @@ public class DeathObelisk : Machine
 
         whiteBang.Bang();
 
-        yield return new WaitForSeconds(bangDuration / 3);
+        yield return new WaitForSeconds(bangDuration);
 
         hero.TakeDamage(float.MaxValue);
     }

@@ -36,9 +36,7 @@ public class RunVideo : MonoBehaviour
 			dialogueCanvas.SetActive(true);
 			dialtrig.TriggerDialogue();
 
-			yield return new WaitForSeconds(5);
-
-			heroScript.enabled = true;
+			yield return new WaitForSeconds(3);
 
 			StopCutscene();
 			door.isEnabled = true;

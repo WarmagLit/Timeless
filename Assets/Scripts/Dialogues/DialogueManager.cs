@@ -41,7 +41,7 @@ public class DialogueManager : MonoBehaviour
 		Debug.Log(sentences.Count);
 		if (sentences.Count == 0)
 		{
-			EndDialogue();
+			StartCoroutine(EndDialogue());
 			return;
 		}
 
@@ -61,9 +61,10 @@ public class DialogueManager : MonoBehaviour
 		}
 	}
 
-	void EndDialogue()
+	IEnumerator EndDialogue()
 	{
-		heroScript.enabled = true;
 		animator.SetBool("IsOpen", false);
+		yield return new WaitForSeconds(1.2f);
+		heroScript.enabled = true;
 	}
 }
